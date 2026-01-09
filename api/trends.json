@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-01-09T12:39:12.582009+08:00",
-  "total_titles_processed": 597,
+  "generated_at": "2026-01-09T13:24:20.760591+08:00",
+  "total_titles_processed": 658,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 47,
+      "match_count": 48,
       "titles": [
         {
           "title": "特朗普：美联储主席人选已定，但我暂时不想说",
@@ -15,8 +15,58 @@
             6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普宣称自己不需要国际法",
+          "url": "https://wallstreetcn.com/livenews/3033777",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "13时24分"
+        },
+        {
+          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
+          "source": "澎湃新闻",
+          "ranks": [
+            15,
+            10,
+            9,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
+          "url": "https://www.cls.cn/detail/2252393",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
+        },
+        {
+          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
+          "url": "https://www.zhihu.com/question/1992163357625643469",
+          "source": "知乎",
+          "ranks": [
+            16,
+            13,
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
         },
         {
           "title": "特朗普将于美东时间上午11点（北京时间晚上12点）在椭圆形办公室会见国务卿鲁比奥；将于美东时间下午1点（北京时间次日凌晨2点）与副总统万斯共进午餐。",
@@ -41,31 +91,6 @@
           "time_info": "[09时34分 ~ 12时39分]"
         },
         {
-          "title": "一图看懂｜特朗普一口气退出了哪66个国际组织？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32341974",
-          "source": "澎湃新闻",
-          "ranks": [
-            15,
-            10,
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
-        },
-        {
-          "title": "特朗普关税实施半年后美国贸易逆差大幅收窄，降至2009年以来最低水平",
-          "url": "https://www.cls.cn/detail/2252393",
-          "source": "财联社热门",
-          "ranks": [
-            11,
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
-        },
-        {
           "title": "特朗普称必须拥有整个格陵兰 芝商所再度上调贵金属期货保证金 | 环球市场",
           "url": "https://www.cls.cn/detail/2252459",
           "source": "财联社热门",
@@ -78,17 +103,39 @@
           "time_info": "[09时34分 ~ 12时39分]"
         },
         {
-          "title": "委内瑞拉代总统称「委未受外部势力统治」，回应特朗普日前声称美国已「掌控」委内瑞拉，目前其国内局势如何？",
-          "url": "https://www.zhihu.com/question/1992163357625643469",
-          "source": "知乎",
+          "title": "特朗普放话“我不需要国际法”",
+          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
+          "source": "凤凰网",
           "ranks": [
-            16,
-            13,
-            12
+            6
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
+        },
+        {
+          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
+          "url": "https://wallstreetcn.com/articles/3762893",
+          "source": "华尔街见闻",
+          "ranks": [
+            6,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
+        },
+        {
+          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
+          "url": "https://wallstreetcn.com/articles/3762899",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
           "title": "高盛：特朗普政府推迟铜关税决定可能性加大 通胀在中期选举前受关注",
@@ -103,38 +150,27 @@
           "time_info": "[11时29分 ~ 12时39分]"
         },
         {
-          "title": "特朗普创纪录1.5万亿军费要打“世界大战”？军工股大反弹，无人机厂商两位数高涨",
-          "url": "https://wallstreetcn.com/articles/3762893",
-          "source": "华尔街见闻",
+          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            13
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
-          "title": "特朗普放话“我不需要国际法”",
-          "url": "https://news.ifeng.com/c/8plmHsoaK5L",
-          "source": "凤凰网",
+          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
+          "source": "澎湃新闻",
           "ranks": [
-            6
+            18,
+            15
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
-        },
-        {
-          "title": "“特朗普版QE”？特朗普指示“两房”购买2000亿美元美国抵押贷款债券",
-          "url": "https://wallstreetcn.com/articles/3762899",
-          "source": "华尔街见闻",
-          "ranks": [
-            7,
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
           "title": "美国媒体人：特朗普增加军费表明美国可能正准备“世界大战”",
@@ -149,27 +185,27 @@
           "time_info": "[09时34分 ~ 11时29分]"
         },
         {
-          "title": "崔天凯：特朗普退出66个国际组织求“破”，中方应以“立”为主",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345211",
+          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            17,
+            12
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "time_info": "[12时38分 ~ 13时24分]"
         },
         {
-          "title": "观察｜特朗普势在必得格陵兰岛，欧洲还能争取何种“交易”？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32342597",
-          "source": "澎湃新闻",
+          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
+          "url": "https://www.zhihu.com/question/1992865566088721749",
+          "source": "知乎",
           "ranks": [
-            18,
-            15
+            17
           ],
           "is_new": false,
           "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "time_info": "[12时38分 ~ 13时24分]"
         },
         {
           "title": "特朗普一口气退出了哪66个国际组织？",
@@ -219,26 +255,27 @@
           "time_info": "[11时29分 ~ 12时39分]"
         },
         {
-          "title": "释疑｜美国要“吞并”格陵兰岛！特朗普可能有5种方案，细看棋局推演",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32345352",
-          "source": "澎湃新闻",
+          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
+          "url": "https://www.cls.cn/detail/2252516",
+          "source": "财联社热门",
           "ranks": [
-            17
+            13
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
-          "title": "特朗普表示，美国必须「拥有」整个格陵兰，释放了什么信号？",
-          "url": "https://www.zhihu.com/question/1992865566088721749",
-          "source": "知乎",
+          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
+          "url": "https://wallstreetcn.com/livenews/3033738",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            16,
+            26
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "time_info": "[12时39分 ~ 13时24分]"
         },
         {
           "title": "美国总统特朗普：（谈俄罗斯制裁法案）我支持这份法案。",
@@ -318,17 +355,6 @@
           "time_info": "11时29分"
         },
         {
-          "title": "特朗普放话必须“拥有”整个格陵兰 欧盟高官：“极其令人担忧”",
-          "url": "https://www.cls.cn/detail/2252516",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时29分"
-        },
-        {
           "title": "美国总统特朗普：密切关注伊朗抗议活动；伊朗有可能垮台。",
           "url": "https://flash.jin10.com/detail/20260109103341921800",
           "source": "金十数据",
@@ -360,17 +386,6 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时29分"
-        },
-        {
-          "title": "特朗普称不担心美俄《新削减战略武器条约》即将到期",
-          "url": "https://wallstreetcn.com/livenews/3033738",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时39分"
         },
         {
           "title": "美国总统特朗普：委内瑞拉还需要一段时间才能举行自由公正选举。",
@@ -478,7 +493,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时39分"
         },
@@ -551,8 +566,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
         },
         {
           "title": "国服玩家爆料:伊朗暴乱士兵揭竿",
@@ -563,8 +578,8 @@
             9
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
           "title": "媒体称伊朗抗议席卷全国一半省份，至少 36 人死亡，一旦伊朗失控谁是背后赢家？谁失利？",
@@ -639,8 +654,8 @@
             1
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
         },
         {
           "title": "美股收盘：三大指数涨跌不一 军工股全线走强 阿里巴巴涨超5%",
@@ -650,8 +665,8 @@
             2
           ],
           "is_new": false,
-          "appearance_count": 5,
-          "time_info": "[09时34分 ~ 12时39分]"
+          "appearance_count": 6,
+          "time_info": "[09时34分 ~ 13时24分]"
         },
         {
           "title": "美股三大期指集体走低 特朗普提高军费防务板块大涨 | 今夜看点",
@@ -742,11 +757,12 @@
           "url": "https://wallstreetcn.com/articles/3762888",
           "source": "华尔街见闻",
           "ranks": [
-            4
+            4,
+            5
           ],
           "is_new": false,
-          "appearance_count": 3,
-          "time_info": "[11时29分 ~ 12时39分]"
+          "appearance_count": 4,
+          "time_info": "[11时29分 ~ 13时24分]"
         },
         {
           "title": "黄金成全球最大储备资产，30年来首次超越美债！",
@@ -756,8 +772,8 @@
             10
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时38分 ~ 12时39分]"
+          "appearance_count": 3,
+          "time_info": "[12时38分 ~ 13时24分]"
         }
       ]
     }
