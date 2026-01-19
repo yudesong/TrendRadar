@@ -49,10 +49,10 @@ jobs:
 
       - name: Send to WeCom
         env:
-          KEY: ${{ secrets.WECOM_WEBHOOK_KEY }}
+          KEY: ${{ secrets.WEWORK_WEBHOOK_URL }}
         run: |
           if [ -z "$KEY" ]; then
-            echo "未设置 WECOM_WEBHOOK_KEY，跳过推送"
+            echo "未设置 WEWORK_WEBHOOK_URL，跳过推送"
             exit 0
           fi
 
