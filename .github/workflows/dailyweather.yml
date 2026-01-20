@@ -2,8 +2,7 @@ name: Daily Weather Notification
 
 on:
   schedule:
-    - cron: '0 0 * * *'
-
+    - cron: '0 0 * * *'  # UTC 00:00 = 北京时间 08:00
   workflow_dispatch:
 
 jobs:
@@ -13,22 +12,20 @@ jobs:
       - name: Get current date
         run: echo "TODAY=$(date +'%Y-%m-%d')" >> $GITHUB_ENV
 
+      - name: Install jq
+        run: sudo apt-get update && sudo apt-get install -y jq
+
       - name: Fetch weather data (Beijing)
         run: |
           response=$(curl -s "https://api.open-meteo.com/v1/forecast?latitude=39.9042&longitude=116.4074&daily=weathercode,temperature_2m_max,temperature_2m_min&timezone=Asia/Shanghai")
-          echo "$response" > weather.json
-
-          # 提取数据
           max_temp=$(echo "$response" | jq -r '.daily.temperature_2m_max[0]')
           min_temp=$(echo "$response" | jq -r '.daily.temperature_2m_min[0]')
           wmo_code=$(echo "$response" | jq -r '.daily.weathercode[0]')
 
-          # WMO 天气代码转中文（简化版）
           case $wmo_code in
             0) weather="晴" ;;
             1) weather="多云" ;;
-            2) weather="阴" ;;
-            3) weather="阴" ;;
+            2|3) weather="阴" ;;
             45|48) weather="雾" ;;
             51|53|55) weather="毛毛雨" ;;
             61|63|65) weather="小雨" ;;
@@ -46,28 +43,21 @@ jobs:
 
       - name: Send to WeCom
         env:
-          KEY: ${{ secrets.WEWORK_WEBHOOK_URL }}
+          KEY: ${{ secrets.WECOM_WEBHOOK_KEY }}
         run: |
           if [ -z "$KEY" ]; then
-            echo "未设置 WEWORK_WEBHOOK_URL，跳过推送"
+            echo "未设置 WECOM_WEBHOOK_KEY，跳过推送"
             exit 0
           fi
 
-          msg=$(cat <<EOF
-{
-  "msgtype": "markdown",
-  "markdown": {
-    "content": "🌤️ **今日天气提醒**\n\n- 城市：北京\n- 日期：${{ env.TODAY }}\n- 天气：${{ env.WEATHER }}\n- 温度：${{ env.MIN_TEMP }}°C ～ ${{ env.MAX_TEMP }}°C\n\n> 祝你今天愉快！"
-  }
-}
-EOF
-          )
+          # 构建 Markdown 消息（单行，用 \n 换行）
+          content="🌤️ **今日天气提醒**\n\n- 城市：北京\n- 日期：${{ env.TODAY }}\n- 天气：${{ env.WEATHER }}\n- 温度：${{ env.MIN_TEMP }}°C ～ ${{ env.MAX_TEMP }}°C\n\n> 祝你今天愉快！"
 
+          # 发送请求
           curl -s -X POST \
             "https://qyapi.weixin.qq.com/cgi-bin/webhook/send?key=$KEY" \
             -H "Content-Type: application/json" \
-            -d "$msg" > /dev/null
+            -d "{\"msgtype\": \"markdown\", \"markdown\": {\"content\": \"$content\"}}" \
+            > /dev/null
 
           echo "✅ 天气消息已推送至企业微信群"
-
-
