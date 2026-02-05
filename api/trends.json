@@ -1,311 +1,33 @@
 {
-  "generated_at": "2026-02-04T22:05:35.370450+08:00",
-  "total_titles_processed": 586,
+  "generated_at": "2026-02-05T10:28:07.091641+08:00",
+  "total_titles_processed": 305,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "伊朗",
-      "match_count": 15,
-      "titles": [
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%87%BB%E8%90%BD%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "bilibili 热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "布油、WTI原油期货日内涨超1%。据AXIOS，美国同意伊朗的要求，将周五的会谈移至阿曼举行。",
-          "url": "https://wallstreetcn.com/livenews/3049479",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
-          "source": "澎湃新闻",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美军称击落伊朗无人机，双方在危险的边缘互相试探？",
-          "url": "https://news.ifeng.com/c/8qTVQYD7em2",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "报道称伊朗炮艇逼近挂美国旗油轮、接近美航母的伊无人机被美击落，原油跳涨",
-          "url": "https://wallstreetcn.com/articles/3764876",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美军击落伊朗无人机后，油轮遭伊炮艇威胁",
-          "url": "https://news.ifeng.com/c/8qSiuqvrYSf",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "伊朗与美国的谈判将于6日在阿曼举行",
-          "url": "https://wallstreetcn.com/livenews/3049923",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美军击落伊朗无人机",
-          "url": "https://www.douyin.com/hot/2388820",
-          "source": "抖音",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "据伊朗学生通讯社：伊朗与美国的会谈仅限于核问题和制裁缓解。",
-          "url": "https://flash.jin10.com/detail/20260204213609907800",
-          "source": "金十数据",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "如何看待美国在阿拉伯海击落伊朗无人机？",
-          "url": "https://www.zhihu.com/question/2002278954355139608",
-          "source": "知乎",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "据伊朗学生通讯社：美国总统特使威特科夫与伊朗外交部长阿拉奇将参加阿曼会谈。",
-          "url": "https://flash.jin10.com/detail/20260204212946117800",
-          "source": "金十数据",
-          "ranks": [
-            22
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "据伊朗学生通讯社：（伊朗）与美国的核谈判将于周五在阿曼举行，谈判形式与前几轮相似。",
-          "url": "https://flash.jin10.com/detail/20260204212749103800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美方证实击落一架伊朗无人机",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E6%96%B9%E8%AF%81%E5%AE%9E%E5%87%BB%E8%90%BD%E4%B8%80%E6%9E%B6%E4%BC%8A%E6%9C%97%E6%97%A0%E4%BA%BA%E6%9C%BA",
-          "source": "百度热搜",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "伊朗称失联无人机曾传回图片",
-          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%A4%B1%E8%81%94%E6%97%A0%E4%BA%BA%E6%9C%BA%E6%9B%BE%E4%BC%A0%E5%9B%9E%E5%9B%BE%E7%89%87%23&t=31&band_rank=26&Refer=top",
-          "source": "微博",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "伊朗：一艘船非法进入伊朗领海",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E4%B8%80%E8%89%98%E8%88%B9%E9%9D%9E%E6%B3%95%E8%BF%9B%E5%85%A5%E4%BC%8A%E6%9C%97%E9%A2%86%E6%B5%B7",
-          "source": "百度热搜",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 9,
-      "titles": [
-        {
-          "title": "软件股重挫打压美股，纳指跌超1%，黄金一度重回5000关口，白银涨逾7%，比特币曾跌超7%",
-          "url": "https://wallstreetcn.com/articles/3764793",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 22时05分]"
-        },
-        {
-          "title": "美股爆发AI恐慌！Anthropic新工具掀软件股抛售，路透盘中跌超20%",
-          "url": "https://wallstreetcn.com/articles/3764882",
-          "source": "华尔街见闻",
-          "ranks": [
-            2,
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时26分 ~ 22时05分]"
-        },
-        {
-          "title": "美股爆发 AI 恐慌性抛售，英伟达市值一夜蒸发超 8000 亿元，发生了什么？如何解读？",
-          "url": "https://www.zhihu.com/question/2002302871203440223",
-          "source": "知乎",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美股收盘：三大指数集体收跌 “AI抢饭碗”引发软件股抛售",
-          "url": "https://www.cls.cn/detail/2279710",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美伊对峙升温：美军击落伊朗无人机 油价走强美股承压",
-          "url": "https://www.cls.cn/detail/2279689",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美股“SaaS末日”来临：“软件-PE”陷入“死亡循环”",
-          "url": "https://wallstreetcn.com/articles/3764895",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2280791",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "美股期指走高 Palantir盘前大涨逾11% | 今夜看点",
-          "url": "https://www.cls.cn/detail/2279540",
-          "source": "财联社热门",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "美股爆发AI恐慌性抛售",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E7%88%86%E5%8F%91AI%E6%81%90%E6%85%8C%E6%80%A7%E6%8A%9B%E5%94%AE",
-          "source": "百度热搜",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        }
-      ]
-    },
-    {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
         {
-          "title": "习近平同美国总统特朗普通电话",
+          "title": "习近平同特朗普通电话",
           "url": "https://www.toutiao.com/trending/7603003215299149878/",
           "source": "今日头条",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "习近平同特朗普通电话",
-          "url": "https://www.baidu.com/s?wd=%E4%B9%A0%E8%BF%91%E5%B9%B3%E5%90%8C%E7%89%B9%E6%9C%97%E6%99%AE%E9%80%9A%E7%94%B5%E8%AF%9D",
-          "source": "百度热搜",
+          "title": "特朗普：中美元首通话内容详实，气氛积极",
+          "url": "https://news.ifeng.com/c/8qUQ05iiX1G",
+          "source": "凤凰网",
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
           "title": "习近平同特朗普通电话",
@@ -314,109 +36,143 @@
           "ranks": [
             1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "据AXIOS网站：预计美国与伊朗的核谈判将于周五在阿曼举行。特朗普政府同意伊朗将谈判地点从土耳其移出的请求。",
-          "url": "https://flash.jin10.com/detail/20260204100640768800",
-          "source": "金十数据",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://wallstreetcn.com/articles/3764980",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "详讯丨习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32535525",
+          "source": "澎湃新闻",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         },
         {
-          "title": "那个跟特朗普“打得你死我活”的狠人去了白宫(图)",
-          "url": "https://news.ifeng.com/c/8qSjfu3ljfs",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "习近平同美国总统特朗普通电话。（央视）",
-          "url": "https://wallstreetcn.com/livenews/3049918",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时05分"
-        },
-        {
-          "title": "特朗普公布120亿美元“金库计划”",
-          "url": "https://news.ifeng.com/c/8qSe1tjtzmx",
-          "source": "凤凰网",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普又被告了 哈德逊河隧道工程陷入政治博弈泥潭",
-          "url": "https://flash.jin10.com/detail/20260204094350872800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
-        },
-        {
-          "title": "特朗普称正与伊朗进行谈判",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32529283",
+          "title": "习近平同美国总统特朗普通电话",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32534170",
           "source": "澎湃新闻",
           "ranks": [
-            19
+            16
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "120倍回报、千亿美元浮盈，SpaceX上市的隐藏大赢家——谷歌！",
-          "url": "https://wallstreetcn.com/articles/3764858",
+          "title": "谷歌All in AI：Q4云收入猛增48%，今年支出指引接近翻倍大超预期，盘后巨震 | 财报见闻",
+          "url": "https://wallstreetcn.com/articles/3764994",
           "source": "华尔街见闻",
           "ranks": [
-            8
+            5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "谷歌ALL in AI！Q4云业务激增48% 2026“烧钱”速度翻倍",
+          "url": "https://www.cls.cn/detail/2281032",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         }
       ]
     },
     {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "keyword_group": "美股",
+      "match_count": 2,
       "titles": [
         {
-          "title": "美国政府本轮“停摆”结束 英伟达据称将投OpenAI 200亿 | 环球市场",
-          "url": "https://www.cls.cn/detail/2279758",
+          "title": "美股收盘：纳指跌破100日线 光伏板块全面爆发",
+          "url": "https://www.cls.cn/detail/2280969",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "美股三大期指涨跌不一 AMD盘前大跌超10% | 今夜看点",
+          "url": "https://www.cls.cn/detail/2280791",
           "source": "财联社热门",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时26分"
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "啥情况｜两起军事摩擦，伊朗想改会谈地点：美伊谈判前再生变数？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32529750",
+          "source": "澎湃新闻",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        },
+        {
+          "title": "鲁比奥否认向伊朗让步，透露美方条件",
+          "url": "https://news.ifeng.com/c/8qUUgmewA1z",
+          "source": "凤凰网",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金价巨震之下，水贝难寻金条现货|传真",
+          "url": "https://www.cls.cn/detail/2280847",
+          "source": "财联社热门",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时27分 ~ 10时28分]"
         }
       ]
     }
