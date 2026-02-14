@@ -1,427 +1,171 @@
 {
-  "generated_at": "2026-02-13T22:04:47.629672+08:00",
-  "total_titles_processed": 580,
+  "generated_at": "2026-02-14T10:25:38.264639+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
-    {
-      "keyword_group": "美股",
-      "match_count": 16,
-      "titles": [
-        {
-          "title": "黄金一度跌超4%、白银暴跌11%，美股大跌引爆算法交易贵金属卖盘？",
-          "url": "https://wallstreetcn.com/articles/3765629",
-          "source": "华尔街见闻",
-          "ranks": [
-            3,
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 22时04分]"
-        },
-        {
-          "title": "【早报】深夜跳水！美股、黄金、白银、原油集体大跌；央行今日出手，万亿逆回购来了",
-          "url": "https://www.cls.cn/detail/2289071",
-          "source": "财联社热门",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "周五美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3055230",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "美股收盘：AI颠覆性担忧发酵 三大指数均跌超1%",
-          "url": "https://www.cls.cn/detail/2289051",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美股AI叙事进入下半场：从普涨狂欢到“暗礁”密布",
-          "url": "https://www.cls.cn/detail/2289007",
-          "source": "财联社热门",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
-          "url": "https://wallstreetcn.com/articles/3765638",
-          "source": "华尔街见闻",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "AI恐慌扩散，科技股再度拖垮美股，地产股连日重挫，苹果市值一日蒸发2000亿",
-          "url": "https://wallstreetcn.com/articles/3765624",
-          "source": "华尔街见闻",
-          "ranks": [
-            8,
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 22时04分]"
-        },
-        {
-          "title": "存储概念股盘前延续涨势 美股三大期指小幅走高 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2288812",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "引爆美股“黑色星期四”的导火索，是这家市值600万美元的“小公司”",
-          "url": "https://wallstreetcn.com/articles/3765636",
-          "source": "华尔街见闻",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2289929",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "美国CPI数据公布后，美股期货短线拉升",
-          "url": "https://wallstreetcn.com/livenews/3055223",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
-          "url": "https://wallstreetcn.com/articles/3765660",
-          "source": "华尔街见闻",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "阿里巴巴美股盘前跌幅扩大至5%。",
-          "url": "https://wallstreetcn.com/livenews/3055214",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "国际金银、美股、石油、 BTC 等均现下跌，银价一度跌超 11%，发生了什么，春节期间应如何防范大波动行情？",
-          "url": "https://www.zhihu.com/question/2005568531748648323",
-          "source": "知乎",
-          "ranks": [
-            18
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "美股跳水 黄金白银大跌",
-          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E8%82%A1%E8%B7%B3%E6%B0%B4+%E9%BB%84%E9%87%91%E7%99%BD%E9%93%B6%E5%A4%A7%E8%B7%8C",
-          "source": "百度热搜",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "Moderna第四季度营收6.78亿美元，同比下降30%，市场预期6.251亿美元。 第四季度每股亏损2.11美元，去年同期每股亏损2.91美元。 预计全年营收同比增长最高可达10%。 预计全年资本支出为2亿至3亿美元，市场预期为2.653亿美元。 Moderna美股盘前跌幅收窄至0.5%。",
-          "url": "https://wallstreetcn.com/livenews/3055196",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            28
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        }
-      ]
-    },
     {
       "keyword_group": "特朗普",
       "match_count": 9,
       "titles": [
         {
-          "title": "美国总统特朗普预计将于4月初访问中国？外交部：双方就此保持着沟通",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32591772",
-          "source": "澎湃新闻",
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://flash.jin10.com/detail/20260214094023773800",
+          "source": "金十数据",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
         },
         {
-          "title": "特朗普答凤凰：中美关系良好，两国元首今年实现互访",
-          "url": "https://news.ifeng.com/c/8qhfIw9PImo",
-          "source": "凤凰网",
+          "title": "外媒爆料：美军正做准备，一旦特朗普下令攻击伊朗，行动可能持续数周",
+          "url": "https://wallstreetcn.com/livenews/3055429",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            1
+            6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
         },
         {
-          "title": "特朗普威胁伊朗：不达成协议，就进入第二阶段",
-          "url": "https://news.ifeng.com/c/8qhMxrkOBrZ",
-          "source": "凤凰网",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "特朗普被曝下月初召开拉美峰会“遏制中国”",
-          "url": "https://news.ifeng.com/c/8qiBqEpZEqH",
+          "title": "特朗普将访问委内瑞拉",
+          "url": "https://news.ifeng.com/c/8qitxi0GRdt",
           "source": "凤凰网",
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         },
         {
-          "title": "特朗普称必须与伊朗达成协议 Anthropic完成300亿美元融资 | 环球市场",
-          "url": "https://www.cls.cn/detail/2289062",
-          "source": "财联社热门",
+          "title": "报告：特朗普关税政策成本90%由美国消费者和企业买单",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32599555",
+          "source": "澎湃新闻",
           "ranks": [
             8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
         },
         {
-          "title": "美国财长贝森特：关于加密货币法案的一些明确说明将为市场带来信心。 尽快推动该法案通过非常重要，预计今年春季提交给特朗普。",
-          "url": "https://wallstreetcn.com/livenews/3055202",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普：泽连斯基必须行动起来，否则将错失好机会",
+          "url": "https://news.ifeng.com/c/8qis4CFCUkf",
+          "source": "凤凰网",
           "ranks": [
-            23
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         },
         {
-          "title": "美国财长贝森特：（谈就业问题）这是特朗普重归私有化经济计划的一部分。 （谈美国赤字）我更相信市场，而不是国会预算办公室（CBO）的预测。 债券市场如此平静，是因为我们正在整顿财政。 2025年GDP增长率很有可能达到3%。 通胀可能在2026年年中回到2%左右。",
-          "url": "https://wallstreetcn.com/livenews/3055197",
-          "source": "华尔街见闻-快讯",
+          "title": "特朗普证实美军将向中东派第二艘航母",
+          "url": "https://news.ifeng.com/c/8qj2ZhXi0EY",
+          "source": "凤凰网",
           "ranks": [
-            27
+            9
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
+        },
+        {
+          "title": "特朗普称美国将向中东增派第二艘航母 施压伊朗达成协议",
+          "url": "https://www.cls.cn/detail/2290097",
+          "source": "财联社热门",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
           "title": "中方回应特朗普或将4月访华",
           "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E5%9B%9E%E5%BA%94%E7%89%B9%E6%9C%97%E6%99%AE%E6%88%96%E5%B0%864%E6%9C%88%E8%AE%BF%E5%8D%8E",
           "source": "bilibili 热搜",
           "ranks": [
-            28
+            19
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
         },
         {
-          "title": "美国财长贝森特（谈金属关税）：这是特朗普的决定。 今天早上与美国贸易代表进行了沟通，将看看是否会有范围收窄。 如果有任何措施，将只是对附带物品的澄清。",
-          "url": "https://wallstreetcn.com/livenews/3055194",
-          "source": "华尔街见闻-快讯",
+          "title": "美国总统特朗普：无论国会是否批准，中期选举都将实行选民身份认证制度。",
+          "url": "https://flash.jin10.com/detail/20260214082157346800",
+          "source": "金十数据",
           "ranks": [
-            30
+            24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "DeepSeek变冷淡了",
-          "url": "https://www.baidu.com/s?wd=DeepSeek%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86",
-          "source": "百度热搜",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "DeepSeek 更新后被吐槽变冷变傻，你感受到了吗？为什么会出现这种情况？",
-          "url": "https://www.zhihu.com/question/2005557043939993512",
-          "source": "知乎",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "Deepseek被指变冷淡了",
-          "url": "https://s.weibo.com/weibo?q=%23Deepseek%E8%A2%AB%E6%8C%87%E5%8F%98%E5%86%B7%E6%B7%A1%E4%BA%86%23&t=31&band_rank=5&Refer=top",
-          "source": "微博",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "DeepSeek低调升级新模型",
-          "url": "https://search.bilibili.com/all?keyword=DeepSeek%E4%BD%8E%E8%B0%83%E5%8D%87%E7%BA%A7%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            12
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "UP主实测DeepSeek新模型",
-          "url": "https://search.bilibili.com/all?keyword=UP%E4%B8%BB%E5%AE%9E%E6%B5%8BDeepSeek%E6%96%B0%E6%A8%A1%E5%9E%8B",
-          "source": "bilibili 热搜",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        },
-        {
-          "title": "DeepSeek也不想假装关心",
-          "url": "https://s.weibo.com/weibo?q=%23DeepSeek%E4%B9%9F%E4%B8%8D%E6%83%B3%E5%81%87%E8%A3%85%E5%85%B3%E5%BF%83%23&t=31&band_rank=21&Refer=top",
-          "source": "微博",
-          "ranks": [
-            21
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美债",
+      "keyword_group": "美股",
       "match_count": 5,
       "titles": [
         {
-          "title": "CPI前AI恐慌升级，纳指跌超2%，美债走强，人民币三年新高，黄金失守5000美元，白银跳水11%",
-          "url": "https://wallstreetcn.com/articles/3765553",
-          "source": "华尔街见闻",
+          "title": "美股：金银大涨 英伟达蒸发6900亿元",
+          "url": "https://www.toutiao.com/trending/7606270891333091371/",
+          "source": "今日头条",
           "ranks": [
-            1
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时37分 ~ 22时04分]"
+          "appearance_count": 1,
+          "time_info": "10时25分"
         },
         {
-          "title": "机构：1月CPI基本符合预期 10y美债收益率创今年新低",
-          "url": "https://flash.jin10.com/detail/20260213214717860800",
-          "source": "金十数据",
+          "title": "美股脆弱之际，今晚CPI恐现“鹰派意外”",
+          "url": "https://wallstreetcn.com/articles/3765660",
+          "source": "华尔街见闻",
           "ranks": [
-            1
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         },
         {
-          "title": "2年/10年美债收益率曲线在CPI数据公布后陡升至65.5个基点，高于周四的64个基点。",
-          "url": "https://flash.jin10.com/detail/20260213213454123800",
-          "source": "金十数据",
+          "title": "美股收盘：通胀降温难抵AI忧虑 三大指数周线齐跌",
+          "url": "https://www.cls.cn/detail/2290109",
+          "source": "财联社热门",
           "ranks": [
-            13
+            4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         },
         {
-          "title": "两年期美债收益率跌破3.40%，创去年10月以来新低。",
-          "url": "https://flash.jin10.com/detail/20260213213417637800",
-          "source": "金十数据",
+          "title": "美CPI数据即将公布 美股期指盘前集体走低 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2289929",
+          "source": "财联社热门",
           "ranks": [
-            14
+            8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         },
         {
-          "title": "两年期美债收益率进一步下跌，最新下跌5个基点至3.418%。",
-          "url": "https://flash.jin10.com/detail/20260213213259727800",
+          "title": "美股周五收盘，道指收涨0.1%，标普500指数涨0.05%，纳指跌0.22%。大型科技股涨跌不一 ，苹果(AAPL.O)跌2.27%，英伟达(NVDA.O)跌2.21%，闪迪(SNDK.O)跌0.59%，甲骨文(ORCL.N)涨2.34%，高通(QCOM.O)涨1.61%。",
+          "url": "https://flash.jin10.com/detail/20260214081632273800",
           "source": "金十数据",
           "ranks": [
-            16
+            29
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
         }
       ]
     },
@@ -430,116 +174,82 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "特写｜断网与战争阴霾之下：在伊朗，普通人的生活如何继续",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32583664",
-          "source": "澎湃新闻",
+          "title": "美方代表团将于17日与伊朗会晤",
+          "url": "https://news.ifeng.com/c/8qjOCH5DINZ",
+          "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
         },
         {
-          "title": "伊朗外长：内塔尼亚胡是战争贩子",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596568",
-          "source": "澎湃新闻",
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://wallstreetcn.com/livenews/3055415",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            15
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "伊朗总统：伊朗不寻求核武器",
-          "url": "https://m.thepaper.cn/newsDetail_forward_32596571",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时04分"
-        },
-        {
-          "title": "伊朗多款反舰导弹与卫星系统亮相",
-          "url": "https://www.toutiao.com/trending/7604835780381425700/",
-          "source": "今日头条",
-          "ranks": [
-            24
+            17
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "10时25分"
+        },
         {
-          "title": "阿里、谷歌接连“出手” AI购物元年将至？",
-          "url": "https://www.cls.cn/detail/2288802",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "OpenAI CEO：马斯克攻击我们很荒唐",
-          "url": "https://www.toutiao.com/trending/7605754485696135187/",
-          "source": "今日头条",
-          "ranks": [
-            14
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时37分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "金价",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "金价银价深夜跳水",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E9%93%B6%E4%BB%B7%E6%B7%B1%E5%A4%9C%E8%B7%B3%E6%B0%B4%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
+          "title": "美方代表团将于17日与伊朗方面会晤",
+          "url": "https://flash.jin10.com/detail/20260214083231804800",
+          "source": "金十数据",
           "ranks": [
             22
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时37分"
+          "time_info": "10时25分"
+        },
+        {
+          "title": "国际原子能机构：与伊朗对话继续，未来几天或决定下一步措施",
+          "url": "https://flash.jin10.com/detail/20260214082603396800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "现货黄金涨势稍后回落，最新报4987美元/盎司；美元指数DXY有所反弹，最新报96.93。",
-          "url": "https://flash.jin10.com/detail/20260213214236124800",
-          "source": "金十数据",
+          "title": "DeepSeek春节再扔王炸？官方披露正测试新模型结构",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32602762",
+          "source": "澎湃新闻",
           "ranks": [
-            4
+            11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时04分"
+          "time_info": "10时25分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "CPI温和但科技股疲软，美股指冲高回落，亚马逊九连跌，美债转涨，黄金重上5000关口",
+          "url": "https://wallstreetcn.com/articles/3765664",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时25分"
         }
       ]
     }
