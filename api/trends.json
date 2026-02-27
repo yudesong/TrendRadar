@@ -1,432 +1,195 @@
 {
-  "generated_at": "2026-02-26T22:14:21.543987+08:00",
-  "total_titles_processed": 595,
+  "generated_at": "2026-02-27T10:26:37.165737+08:00",
+  "total_titles_processed": 313,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 12,
+      "match_count": 5,
       "titles": [
         {
-          "title": "白宫官员希望以色列先打击伊朗",
-          "url": "https://news.ifeng.com/c/8r3lr4eCVvP",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "伊朗外交部发言人：本轮伊美谈判非常深入",
-          "url": "https://wallstreetcn.com/livenews/3059622",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "如美发动攻击，中俄会否联手支援伊朗？外交部回应",
-          "url": "https://news.ifeng.com/c/8r3mAyyc1El",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "伊朗外长：伊朗已将导弹射程限制在2000公里以内",
-          "url": "https://flash.jin10.com/detail/20260226100021545800",
-          "source": "金十数据",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "如果美国对伊朗发动攻击，中国是否会和俄罗斯一道支持伊朗？外交部回应",
-          "url": "https://www.cls.cn/detail/2295813",
-          "source": "财联社热门",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "伊朗方面表示，希望接下来谈判重点放在核问题和制裁上。",
-          "url": "https://flash.jin10.com/detail/20260226215146299800",
-          "source": "金十数据",
+          "title": "伊美第三轮谈判结束，伊朗外长称取得良好进展，美媒称美方谈判期间感到失望",
+          "url": "https://wallstreetcn.com/articles/3766294",
+          "source": "华尔街见闻",
           "ranks": [
             6
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "中方正密切关注伊朗局势发展",
-          "url": "https://search.bilibili.com/all?keyword=%E4%B8%AD%E6%96%B9%E6%AD%A3%E5%AF%86%E5%88%87%E5%85%B3%E6%B3%A8%E4%BC%8A%E6%9C%97%E5%B1%80%E5%8A%BF%E5%8F%91%E5%B1%95",
-          "source": "bilibili 热搜",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "伊朗外交部发言人：我们在阿曼外长和国际原子能机构总干事格罗西的陪同下进行了近3小时的密集谈判。",
-          "url": "https://flash.jin10.com/detail/20260226215132231800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
           "title": "一图看懂｜新一轮谈判在即，美军如何在伊朗周边布阵？",
           "url": "https://m.thepaper.cn/newsDetail_forward_32657969",
           "source": "澎湃新闻",
           "ranks": [
-            13
+            7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
-          "title": "伊朗高级官员：与美国在日内瓦举行的会谈紧张而严肃。",
-          "url": "https://flash.jin10.com/detail/20260226214049957800",
+          "title": "中国是否会与俄罗斯一道支持伊朗抵御美国侵略？外交部回应",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32653060",
+          "source": "澎湃新闻",
+          "ranks": [
+            19
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "伊媒称伊朗拒绝向国外转移浓缩铀",
+          "url": "https://flash.jin10.com/detail/20260227094913478800",
           "source": "金十数据",
           "ranks": [
-            25
+            19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
-          "title": "伊朗高级官员：谈判提出了新的想法，但这些想法需要与德黑兰进行商讨，目前仍存在一些分歧。",
-          "url": "https://flash.jin10.com/detail/20260226214039883800",
+          "title": "万斯：对伊朗军事行动若发生 绝不会演变为长期战争",
+          "url": "https://flash.jin10.com/detail/20260227093805756800",
           "source": "金十数据",
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "伊朗高级官员：若美方“认真区分核问题与非核问题”，达成协议框架是可能的。",
-          "url": "https://flash.jin10.com/detail/20260226214005690800",
-          "source": "金十数据",
-          "ranks": [
-            27
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普国情咨文：“关税提振了股市”，大型科技公司需自建电厂，应立法禁议员炒股",
-          "url": "https://wallstreetcn.com/articles/3766126",
-          "source": "华尔街见闻",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "胡锡进：一个惊悚质疑指向特朗普，希望它不是真的",
-          "url": "https://news.ifeng.com/c/8r2eU3KJRpW",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "特朗普政府劳工部提出有利于零工经济的工人身份认定规则。（彭博）",
-          "url": "https://wallstreetcn.com/livenews/3059618",
+          "title": "美中东最高指挥官向特朗普汇报对伊朗军事选项",
+          "url": "https://wallstreetcn.com/livenews/3059912",
           "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "被批“脱离群众”，特朗普演讲后民调出炉",
-          "url": "https://news.ifeng.com/c/8r3H0FXQPT8",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "特朗普和泽连斯基通话30分钟，谈及俄乌冲突结束时间",
-          "url": "https://news.ifeng.com/c/8r3yuvat2ge",
-          "source": "凤凰网",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "AI引爆美国电费？特朗普“重拳施压”科技巨头：自掏腰包，下周签协议！",
-          "url": "https://www.cls.cn/detail/2295374",
-          "source": "财联社热门",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美向以部署 11 架 F-22 战斗机，并在伊周边集结航母，特朗普发出最后通牒，伊朗为何「还不屈服」？",
-          "url": "https://www.zhihu.com/question/2009941400440025198",
-          "source": "知乎",
           "ranks": [
             11
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
           "title": "特朗普白宫设宴，请美国男子冰球队吃麦当劳",
           "url": "https://m.thepaper.cn/newsDetail_forward_32658507",
           "source": "澎湃新闻",
           "ranks": [
-            14
+            13
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
-          "title": "特朗普威胁将教父饰演者驱逐出境",
-          "url": "https://www.toutiao.com/trending/7610586645797863478/",
-          "source": "今日头条",
+          "title": "AI挤崩电网、引爆电费？特朗普要求科技巨头自建电厂压电价",
+          "url": "https://m.thepaper.cn/newsDetail_forward_32660479",
+          "source": "澎湃新闻",
           "ranks": [
-            26
+            18
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "谷歌Nano Banana 2亮相：专业能力全面下放 成本腰斩一半",
+          "url": "https://www.cls.cn/detail/2296526",
+          "source": "财联社热门",
+          "ranks": [
+            12
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        },
+        {
+          "title": "谷歌(GOOG.O)和OpenAI的员工正在推动限制军事人工智能。",
+          "url": "https://flash.jin10.com/detail/20260227094411984800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 8,
+      "match_count": 2,
       "titles": [
         {
-          "title": "科技股带领美股连涨两日，英伟达盘后一度涨3%，人民币涨近250点，加密货币大反弹",
-          "url": "https://wallstreetcn.com/articles/3766102",
-          "source": "华尔街见闻",
-          "ranks": [
-            1,
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[10时27分 ~ 22时14分]"
-        },
-        {
-          "title": "美股收盘：“七巨头”集体走强 三大指数连续两日齐涨",
-          "url": "https://www.cls.cn/detail/2295296",
+          "title": "美股收盘：英伟达绩后再现惯性跳水 拖累纳指跌超1%",
+          "url": "https://www.cls.cn/detail/2296570",
           "source": "财联社热门",
           "ranks": [
-            4
+            2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "美股三大期指集体走高 英伟达财报重磅来袭 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2295156",
-          "source": "财联社热门",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "周四美股盘前你需要了解的全球要闻",
-          "url": "https://wallstreetcn.com/livenews/3059616",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "英伟达“答卷”难解AI担忧，美股三大期指集体下跌，存储盘前走强，金涨银跌，油价大幅上涨",
-          "url": "https://wallstreetcn.com/articles/3766225",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         },
         {
           "title": "美股三大期指集体走高 英伟达盘前上涨 | 今夜看点",
           "url": "https://www.cls.cn/detail/2296406",
           "source": "财联社热门",
           "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "10时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何评价消息称 DeepSeek V4 打破常规优先适配华为，冷落英伟达 AMD？会带来什么影响？",
+          "url": "https://www.zhihu.com/question/2010465986483025153",
+          "source": "知乎",
+          "ranks": [
             10
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "Stellantis美股盘前涨超4%，报道称公司考虑引入零跑汽车技术，降低欧洲电动车成本。",
-          "url": "https://wallstreetcn.com/livenews/3059610",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
-        },
-        {
-          "title": "赫兹租车第四季度总营收20.3亿美元，市场预期20亿美元。 第四季度调整后每股亏损63美分，市场预期每股亏损52美分。 赫兹租车美股盘前跌近10%。",
-          "url": "https://wallstreetcn.com/livenews/3059601",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "22时14分"
+          "time_info": "10时26分"
         }
       ]
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "OpenAI聘请Meta公司的AI研究员庞若鸣，他曾领导苹果的模型团队。",
-          "url": "https://flash.jin10.com/detail/20260226095745692800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "据The Information：OpenAI聘请了Meta的AI研究员Ruoming Pang，他此前曾领导过苹果的AI模型团队。",
-          "url": "https://wallstreetcn.com/livenews/3059204",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "OpenAI讨论将云协议扩展至包含Tranium芯片。",
-          "url": "https://flash.jin10.com/detail/20260226095541144800",
-          "source": "金十数据",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "据The Information：OpenAI正讨论扩大云服务协议，以纳入Trainium芯片。",
-          "url": "https://wallstreetcn.com/livenews/3059202",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "据The Information：亚马逊对OpenAI的500亿美元投资可能取决于其IPO进程及AGI（通用人工智能）的实现。",
-          "url": "https://wallstreetcn.com/livenews/3059201",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        },
-        {
-          "title": "亚马逊对OpenAI的500亿美元投资可能取决于其首次公开募股和通用人工智能情况。",
-          "url": "https://flash.jin10.com/detail/20260226095357061800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "10时27分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "黄金",
       "match_count": 1,
       "titles": [
         {
-          "title": "摩根大通上调黄金长期价格预期至4500美元，维持2026年底目标价6300美元不变",
-          "url": "https://www.cls.cn/detail/2295242",
-          "source": "财联社热门",
+          "title": "OpenAI向加拿大官员作出多项承诺，将加强安全机制",
+          "url": "https://wallstreetcn.com/livenews/3059885",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            29
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "10时27分"
+          "time_info": "10时26分"
         }
       ]
     }
