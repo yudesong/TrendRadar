@@ -1,414 +1,216 @@
 {
-  "generated_at": "2026-05-25T23:53:54.062563+08:00",
-  "total_titles_processed": 585,
+  "generated_at": "2026-05-26T11:54:25.687834+08:00",
+  "total_titles_processed": 315,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 22,
+      "match_count": 11,
       "titles": [
         {
-          "title": "伊朗最高领袖顾问：与美谈判同时，我们的手指扣在扳机上",
-          "url": "https://wallstreetcn.com/livenews/3108969",
-          "source": "华尔街见闻-快讯",
+          "title": "伊朗最高领袖就医情况曝光",
+          "url": "https://news.ifeng.com/c/8tQQymaYbMG",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美军：在伊朗南部实施自卫打击",
+          "url": "https://www.cls.cn/detail/2381184",
+          "source": "财联社热门",
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         },
         {
-          "title": "阿拉伯电视台：伊朗要求将铀转移至中国",
-          "url": "https://wallstreetcn.com/livenews/3108966",
-          "source": "华尔街见闻-快讯",
+          "title": "以服务之名行管辖之实，伊朗的操作会否迎来效仿者？",
+          "url": "https://flash.jin10.com/detail/20260526111915263800",
+          "source": "金十数据",
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         },
         {
-          "title": "美国国务卿鲁比奥：（关于伊朗）在核问题上有一个相当稳妥的提议，可以进行限时的谈判，希望我们能成功达成协议。",
-          "url": "https://flash.jin10.com/detail/20260525114636610800",
-          "source": "金十数据",
+          "title": "击落敌方无人机，伊朗：使用了新武器",
+          "url": "https://news.ifeng.com/c/8tQJBZmqYeW",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "报道：伊朗将在与美达成协议30天后重开霍尔木兹，美伊就伊冻结资产达成谅解",
+          "url": "https://wallstreetcn.com/articles/3773097",
+          "source": "华尔街见闻",
           "ranks": [
             5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "11时54分"
         },
         {
-          "title": "美媒：协议含放弃浓缩铀 伊朗：暂不谈核问题",
-          "url": "https://wallstreetcn.com/articles/3772994",
-          "source": "华尔街见闻",
-          "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "伊朗军方举行烈士纪念仪式，高层发表强硬讲话",
-          "url": "https://news.ifeng.com/c/8tPl7KTsmFN",
+          "title": "美军发动“自卫性”空袭伊朗，细节披露",
+          "url": "https://news.ifeng.com/c/8tQybAWR6Ya",
           "source": "凤凰网",
           "ranks": [
-            6
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（关于伊朗）我认为我们在能够开放霍尔木兹海峡方面有一个相当可靠的方案。",
-          "url": "https://flash.jin10.com/detail/20260525114556752800",
-          "source": "金十数据",
-          "ranks": [
-            6
+            5
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "11时54分"
         },
         {
-          "title": "美国国务卿鲁比奥谈伊朗问题：将尽一切努力通过外交途径取得成功。 在伊朗问题上仍有工作在推进中。 我们现在正全力关注黎巴嫩局势。 （谈到伊朗协议）可能就在今天，但不必过度解读。",
-          "url": "https://wallstreetcn.com/livenews/3108657",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（关于伊朗）在考虑其他方案之前，我们将竭尽全力让外交努力取得成功。",
-          "url": "https://flash.jin10.com/detail/20260525114450171800",
-          "source": "金十数据",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "伊通社：伊朗多哈之行将检验“美国对承诺的履行”",
-          "url": "https://wallstreetcn.com/livenews/3108960",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            8
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "伊朗媒体披露最高领袖就医情况",
-          "url": "https://wallstreetcn.com/livenews/3108959",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            9
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "美国国务卿鲁比奥：（关于伊朗）我们要么达成一个好的协议，要么就得以其他方式处理。",
-          "url": "https://flash.jin10.com/detail/20260525114348830800",
-          "source": "金十数据",
+          "title": "伊朗：并非即将与美国达成协议，霍尔木兹海峡管理将是伊朗与阿曼之间的事务",
+          "url": "https://wallstreetcn.com/articles/3773045",
+          "source": "华尔街见闻",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
+          "time_info": "11时54分"
         },
         {
-          "title": "伊朗媒体披露最高领袖就医情况",
-          "url": "https://flash.jin10.com/detail/20260525230526113800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "据伊朗伊斯兰共和国通讯社（IRNA）：伊朗多哈之行将检验“美国对承诺的履行”。",
-          "url": "https://flash.jin10.com/detail/20260525230509437800",
-          "source": "金十数据",
-          "ranks": [
-            12
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：美国宣称不希望举办与伊朗有关的足球赛事之后，墨西哥政府同意让伊朗足球国家队在世界杯期间滞留墨西哥。",
-          "url": "https://wallstreetcn.com/livenews/3108954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            14
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "鲁比奥：仍有可能与伊朗达成协议",
-          "url": "https://flash.jin10.com/detail/20260525113914583800",
-          "source": "金十数据",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "巴西央行行长：伊朗冲突和厄尔尼诺现象带来的供应冲击正在影响通胀预期。",
-          "url": "https://flash.jin10.com/detail/20260525225349382800",
-          "source": "金十数据",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
-          "url": "https://wallstreetcn.com/livenews/3108950",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            17
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "伊朗代表团结束在卡塔尔会谈议程 将返回德黑兰",
-          "url": "https://flash.jin10.com/detail/20260525224711342800",
-          "source": "金十数据",
+          "title": "美军称在伊朗南部实施自卫打击",
+          "url": "https://www.baidu.com/s?wd=%E7%BE%8E%E5%86%9B%E7%A7%B0%E5%9C%A8%E4%BC%8A%E6%9C%97%E5%8D%97%E9%83%A8%E5%AE%9E%E6%96%BD%E8%87%AA%E5%8D%AB%E6%89%93%E5%87%BB",
+          "source": "百度热搜",
           "ranks": [
             19
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         },
         {
-          "title": "伊朗总统称准备向世界保证不寻求核武器，如何看待这一表态？会推动美伊达成协议吗？",
-          "url": "https://www.zhihu.com/question/2042201889626907656",
-          "source": "知乎",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "伊朗高官急赴卡塔尔敲定美伊停火细节，各方加紧努力达成协议",
-          "url": "https://flash.jin10.com/detail/20260525223419650800",
-          "source": "金十数据",
-          "ranks": [
-            23
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "欧洲斯托克50指数上涨2%，抹去了自伊朗战争爆发以来的所有跌幅。",
-          "url": "https://wallstreetcn.com/livenews/3108944",
+          "title": "美军称在霍尔木兹海峡击沉两艘伊朗布雷船",
+          "url": "https://wallstreetcn.com/livenews/3109117",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            23
+            27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         },
         {
-          "title": "欧洲斯托克50指数上涨2%，自伊朗战争开始以来的损失已全部抹平。",
-          "url": "https://flash.jin10.com/detail/20260525223019339800",
+          "title": "美解密文件：UFO编队曾现伊朗上空",
+          "url": "https://www.toutiao.com/trending/7643015961462194226/",
+          "source": "今日头条",
+          "ranks": [
+            29
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美国务卿鲁比奥：霍尔木兹海峡必须保持畅通 伊朗协议措辞谈判可能“需要几天时间”",
+          "url": "https://flash.jin10.com/detail/20260526103832130800",
           "source": "金十数据",
           "ranks": [
-            25
+            30
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 8,
+      "match_count": 4,
       "titles": [
         {
-          "title": "特朗普称美伊协议基本谈成，油价跳水，全球股市走强，日股指新高，金银齐涨",
-          "url": "https://wallstreetcn.com/articles/3773010",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "不小心把特朗普归类为“白痴”，鲁比奥紧急救场",
-          "url": "https://v.ifeng.com/c/8tPourOxMbK",
+          "title": "特朗普要求先签“亚伯拉罕协议”，沙特回应",
+          "url": "https://news.ifeng.com/c/8tQf0euzx96",
           "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "智胜特朗普？美媒酸了：中国取消对非关税这招太“高明”了",
-          "url": "https://news.ifeng.com/c/8tOEfLcy7On",
-          "source": "凤凰网",
-          "ranks": [
-            7
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "又改口？特朗普：美伊尚未“完全谈妥” 美国不急于达成协议",
-          "url": "https://www.cls.cn/detail/2380246",
-          "source": "财联社热门",
-          "ranks": [
-            13
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
-        },
-        {
-          "title": "特朗普80岁生日前接受体检，白宫仅称“年度常规检查”，外界疑虑重重",
-          "url": "https://flash.jin10.com/detail/20260525114406456800",
-          "source": "金十数据",
-          "ranks": [
-            8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "美司法部：白宫附近枪击案是针对特朗普的暗杀图谋",
-          "url": "https://wallstreetcn.com/livenews/3108956",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "特朗普敦促沙特承认以色列，将其作为伊朗协议的一部分",
-          "url": "https://wallstreetcn.com/livenews/3108943",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        },
-        {
-          "title": "特朗普称伊朗核谈判“进展顺利”，协议似乎即将达成",
-          "url": "https://wallstreetcn.com/livenews/3108939",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "周末要闻汇总：特朗普称美伊协议基本谈成；DeepSeek宣布永久降价",
-          "url": "https://www.cls.cn/detail/2380075",
-          "source": "财联社热门",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "梁文锋与DeepSeek的十万亿美元棋盘",
-          "url": "https://wallstreetcn.com/articles/3772995",
+          "title": "特朗普称与伊朗谈判进展顺利、不会签让伊获核武的协议，美官员对近期解决争端乐观",
+          "url": "https://wallstreetcn.com/articles/3773076",
           "source": "华尔街见闻",
           "ranks": [
             6
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
         },
         {
-          "title": "deepseek狂降价,友商被卷哭",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28354527&amp;topic_name=deepseek%E7%8B%82%E9%99%8D%E4%BB%B7%2C%E5%8F%8B%E5%95%86%E8%A2%AB%E5%8D%B7%E5%93%AD",
-          "source": "贴吧",
+          "title": "美伊局势追踪：特朗普再称谈判“进展顺利” 双方据悉就资产解冻达成谅解",
+          "url": "https://www.cls.cn/detail/2381211",
+          "source": "财联社热门",
           "ranks": [
-            17
+            7
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时08分 ~ 12时09分]"
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        },
+        {
+          "title": "美国国务卿鲁比奥：伊朗谈判将持续几天。 特朗普说他要么达成一项好的协议，要么不达成协议。",
+          "url": "https://wallstreetcn.com/livenews/3109132",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            22
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "如何看待 DeepSeek 连续多次降价？",
+          "url": "https://www.zhihu.com/question/2033335202307647295",
+          "source": "知乎",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "11时54分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 1,
       "titles": [
         {
-          "title": "油价跌破100美元，金价为何还不敢痛快反弹？",
-          "url": "https://flash.jin10.com/detail/20260525115644338800",
+          "title": "金十图示：2026年05月26日（周二）上海金早盘价为993.32元/克，较国际金价(989.28元/克)，高4.04元/克",
+          "url": "https://flash.jin10.com/detail/20260526110130644800",
           "source": "金十数据",
           "ranks": [
-            1
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "12时09分"
-        },
-        {
-          "title": "金价跳空高开",
-          "url": "https://s.weibo.com/weibo?q=%23%E9%87%91%E4%BB%B7%E8%B7%B3%E7%A9%BA%E9%AB%98%E5%BC%80%23&t=31&band_rank=29&Refer=top",
-          "source": "微博",
-          "ranks": [
-            29
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时53分"
+          "time_info": "11时54分"
         }
       ]
     }
