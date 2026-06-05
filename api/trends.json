@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-06-05T12:05:26.390050+08:00",
-  "total_titles_processed": 558,
+  "generated_at": "2026-06-05T23:57:48.572378+08:00",
+  "total_titles_processed": 829,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 11,
+      "match_count": 17,
       "titles": [
         {
           "title": "被特朗普斥责“疯了”后，内塔尼亚胡最新发声",
@@ -25,7 +25,7 @@
           "ranks": [
             3
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -36,7 +36,7 @@
           "ranks": [
             4
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -47,9 +47,20 @@
           "ranks": [
             5
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "在这件事上，特朗普宣布要花7亿美元",
+          "url": "https://news.ifeng.com/c/8tiAmm9M2oW",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "美国财长贝森特：美国价格短期偏高，将会下降。 在总统特朗普的第二任期内，实际薪资除了4月份、每个月都在增长。",
@@ -69,7 +80,7 @@
           "ranks": [
             7
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -80,7 +91,7 @@
           "ranks": [
             8
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -107,15 +118,70 @@
           "time_info": "00时21分"
         },
         {
+          "title": "特朗普称若达成协议，不排除与伊朗最高领袖会晤",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33313125",
+          "source": "澎湃新闻",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "特朗普为大倒影池翻修工程辩护 称使用寿命可达百年",
+          "url": "https://flash.jin10.com/detail/20260605233310430800",
+          "source": "金十数据",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "纳指跌幅扩大至2%，“无视”特朗普隔空喊涨的态度",
+          "url": "https://wallstreetcn.com/livenews/3115234",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "怎么看待美国公务员被强制安装白宫 App，可一键夸特朗普?",
+          "url": "https://www.zhihu.com/question/2045446455956091852",
+          "source": "知乎",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
           "title": "美媒：特朗普中期选举策略引争议",
           "url": "https://www.toutiao.com/trending/7647383241969057802/",
           "source": "今日头条",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "美国参议院Jim Banks发函财长贝森特、战争部长海格塞斯、以及特朗普政府的其他官员。 Banks要求对AI的监管跟上新模型的（发布）节奏。",
+          "url": "https://wallstreetcn.com/livenews/3115225",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "美国财长贝森特：总统特朗普的投资完全由第三方管理。",
@@ -131,8 +197,80 @@
       ]
     },
     {
+      "keyword_group": "伊朗",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "一图看懂｜主战还是主和？伊朗高层有什么分歧？",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33310457",
+          "source": "澎湃新闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "美国财长贝森特：伊朗的经济正在挣扎，其军队已被摧毁。通过“经济之怒”，美国财政部将继续切断伊朗的影子船队、影子银行网络以及对全球贸易的获取渠道。",
+          "url": "https://flash.jin10.com/detail/20260605233715202800",
+          "source": "金十数据",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "美国对伊朗外汇兑换机构Mehrdad Geramian Nik实施制裁。",
+          "url": "https://flash.jin10.com/detail/20260605233340333800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
+        {
+          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
+          "url": "https://wallstreetcn.com/livenews/3114526",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
+          "url": "https://wallstreetcn.com/livenews/3114520",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时21分"
+        },
+        {
+          "title": "据福克斯新闻：美国能源部长赖特称，在伊朗冲突结束后，美国将向战略石油储备补充4000万桶原油。",
+          "url": "https://flash.jin10.com/detail/20260605232415104800",
+          "source": "金十数据",
+          "ranks": [
+            21
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        }
+      ]
+    },
+    {
       "keyword_group": "美股",
-      "match_count": 4,
+      "match_count": 5,
       "titles": [
         {
           "title": "【早报】深夜，美股半导体板块剧烈分化；高盛：SpaceX的AI收入将激增100倍",
@@ -141,7 +279,7 @@
           "ranks": [
             1
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         },
@@ -163,9 +301,20 @@
           "ranks": [
             2
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
+        },
+        {
+          "title": "反“金发姑娘”！今晚非农：好消息和坏消息，对美股而言都是坏消息",
+          "url": "https://wallstreetcn.com/articles/3773949",
+          "source": "华尔街见闻",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         },
         {
           "title": "美股已无恐慌，只剩FOMO！华尔街机构：这一幕像极了1998年",
@@ -183,8 +332,19 @@
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
+        {
+          "title": "谷歌计划两年内释放 3200 万只蚊子，旨在减少蚊子数抑制疾病传播，放蚊为啥能灭蚊？背后是什么原理？",
+          "url": "https://www.zhihu.com/question/2045932866278895886",
+          "source": "知乎",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
+        },
         {
           "title": "博通电话会：CEO坦言谷歌正“另寻新欢”，但需求旺盛订单排到2028年，将打造算力融资平台",
           "url": "https://wallstreetcn.com/articles/3773814",
@@ -221,30 +381,47 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "美债",
       "match_count": 2,
       "titles": [
         {
-          "title": "摩根大通 ：石油市场已找到代价高昂的方式消化伊朗冲击",
-          "url": "https://wallstreetcn.com/livenews/3114526",
-          "source": "华尔街见闻-快讯",
+          "title": "非农大超预期，美债收益率短线拉升，AI降温纳指开盘跌超1.2%，WTI原油跌1%，现货白银跌超2.5%",
+          "url": "https://wallstreetcn.com/articles/3773946",
+          "source": "华尔街见闻",
           "ranks": [
-            16
+            6
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "23时57分"
         },
         {
-          "title": "美国财长贝森特：当（美国和以色列挑起的）伊朗冲突结束时，能源价格将回落。 伊朗冲突“已经被暂停”。",
-          "url": "https://wallstreetcn.com/livenews/3114520",
-          "source": "华尔街见闻-快讯",
+          "title": "美国如何一次性解决 36 万亿美债问题？",
+          "url": "https://www.zhihu.com/question/6607165102",
+          "source": "知乎",
           "ranks": [
-            20
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时21分"
+          "time_info": "23时57分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "报道：美国政府拟收购AI公司股份并向全民派息，OpenAI Altman是主要推手",
+          "url": "https://wallstreetcn.com/articles/3773921",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时57分"
         }
       ]
     },
@@ -259,7 +436,7 @@
           "ranks": [
             23
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "12时05分"
         }
