@@ -1,193 +1,127 @@
 {
-  "generated_at": "2026-06-08T12:20:08.866007+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-06-09T00:51:08.586368+08:00",
+  "total_titles_processed": 310,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 16,
+      "match_count": 10,
       "titles": [
         {
-          "title": "伊朗战争丨以色列对伊发起打击行动，美国急表态",
-          "url": "https://news.ifeng.com/loc/timeline/event/8r727OWpK5W?isFull=0&immersion=true&ifengsp=1",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "【早报】A股将迎近千亿“红包”；伊朗向以色列发射导弹",
-          "url": "https://www.cls.cn/detail/2393027",
-          "source": "财联社热门",
-          "ranks": [
-            2
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗4波导弹袭击以空军基地，发出强硬警告",
-          "url": "https://news.ifeng.com/c/8tmavL6b7jm",
-          "source": "凤凰网",
-          "ranks": [
-            5
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "以色列军方：已监测到从伊朗向以色列领土发射的导弹，防空系统正在运行以拦截该威胁。",
-          "url": "https://wallstreetcn.com/livenews/3115846",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            2
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "以军空袭伊朗导弹发射场等设施",
-          "url": "https://wallstreetcn.com/livenews/3115842",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            5
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "伊朗确认遭以色列导弹袭击",
-          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A1%AE%E8%AE%A4%E9%81%AD%E4%BB%A5%E8%89%B2%E5%88%97%E5%AF%BC%E5%BC%B9%E8%A2%AD%E5%87%BB",
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E5%AF%B9%E4%BB%A5%E8%89%B2%E5%88%97%E7%9A%84%E5%86%9B%E4%BA%8B%E8%A1%8C%E5%8A%A8",
           "source": "百度热搜",
           "ranks": [
-            6
+            8
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "时隔两月伊朗向以色列发动导弹袭击",
-          "url": "https://www.toutiao.com/trending/7648730929451745330/",
+          "title": "伊朗宣布停止对以色列的军事行动",
+          "url": "https://www.toutiao.com/trending/7648982898397154858/",
           "source": "今日头条",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "美以围绕伊朗战争分歧加剧之际，美国被曝将以色列间谍威胁升至最高级别",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33329321",
-          "source": "澎湃新闻",
-          "ranks": [
-            10
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "伊朗时隔两个月再袭以色列",
-          "url": "https://www.douyin.com/hot/2526750",
-          "source": "抖音",
-          "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "美以袭击伊朗进入第 101 天，当前局势如何？有哪些值得关注的信息？",
-          "url": "https://www.zhihu.com/question/2047221146982904856",
-          "source": "知乎",
-          "ranks": [
-            11
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "以色列正在攻击伊朗境内目标",
-          "url": "https://www.baidu.com/s?wd=%E4%BB%A5%E8%89%B2%E5%88%97%E6%AD%A3%E5%9C%A8%E6%94%BB%E5%87%BB%E4%BC%8A%E6%9C%97%E5%A2%83%E5%86%85%E7%9B%AE%E6%A0%87",
+          "title": "伊朗和以色列先后宣布停止袭击对方",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%92%8C%E4%BB%A5%E8%89%B2%E5%88%97%E5%85%88%E5%90%8E%E5%AE%A3%E5%B8%83%E5%81%9C%E6%AD%A2%E8%A2%AD%E5%87%BB%E5%AF%B9%E6%96%B9",
           "source": "百度热搜",
           "ranks": [
             12
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "伊朗首都德黑兰响起爆炸声",
-          "url": "https://www.toutiao.com/trending/7648829477922979859/",
-          "source": "今日头条",
-          "ranks": [
-            20
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "以色列北部和南部发布红色警报，因伊朗发射弹道导弹。",
-          "url": "https://flash.jin10.com/detail/20260608120632569800",
+          "title": "据伊朗官方媒体：伊朗方面表示，航班限制已解除，空域恢复正常状态。",
+          "url": "https://flash.jin10.com/detail/20260609000701151800",
           "source": "金十数据",
           "ranks": [
-            6
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "00时51分"
         },
         {
-          "title": "伊朗向以色列发射导弹",
-          "url": "https://flash.jin10.com/detail/20260608120342612800",
-          "source": "金十数据",
-          "ranks": [
-            10
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        },
-        {
-          "title": "外媒：以色列对伊朗发动空袭，美官员称美军未参与以方此次行动",
-          "url": "https://wallstreetcn.com/livenews/3115825",
+          "title": "伊朗全境航班暂停运行",
+          "url": "https://wallstreetcn.com/livenews/3116269",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            17
+            9
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "00时51分"
         },
         {
-          "title": "据伊朗媒体报道，伊朗并未对沙特苏丹王子空军基地发动袭击。",
-          "url": "https://wallstreetcn.com/livenews/3115824",
+          "title": "以色列总理确认暂停袭击伊朗",
+          "url": "https://flash.jin10.com/detail/20260609000537691800",
+          "source": "金十数据",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "以色列回绝伊朗关于不要攻击黎巴嫩的警告",
+          "url": "https://wallstreetcn.com/livenews/3116262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "以军欲打破伊朗试图建立的对等威慑",
+          "url": "https://wallstreetcn.com/livenews/3116259",
           "source": "华尔街见闻-快讯",
           "ranks": [
             18
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "12时20分"
+          "time_info": "00时51分"
+        },
+        {
+          "title": "欧盟以“威胁航行自由”名义制裁伊朗",
+          "url": "https://wallstreetcn.com/livenews/3116257",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "以色列总理确认暂停袭击伊朗",
+          "url": "https://wallstreetcn.com/livenews/3116251",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 4,
+      "match_count": 7,
       "titles": [
         {
           "title": "沃什上任后第一次敲打！特朗普公开发声：没有任何理由加息，加息就是想扼杀我们的成功",
@@ -198,79 +132,123 @@
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "特朗普：我说了算，以色列总理别无选择",
-          "url": "https://news.ifeng.com/c/8tmNZSiGGLp",
+          "title": "特朗普：伊朗最高领袖伤得很重",
+          "url": "https://news.ifeng.com/c/8tn0EMcDuKL",
           "source": "凤凰网",
           "ranks": [
-            2
+            6
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
           "title": "伊朗“警告性”打击以色列，以色列称“将强力回应”，特朗普警告内塔尼亚胡“不要反击，美伊协议近在咫尺”",
           "url": "https://wallstreetcn.com/articles/3774055",
           "source": "华尔街见闻",
           "ranks": [
-            9
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "专访变吵架，特朗普愤怒离场",
-          "url": "https://wallstreetcn.com/livenews/3115836",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "chatgpt openai",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "\"聊天已死\"！ChatGPT最大改版来了，OpenAI要造\"超级应用\"",
-          "url": "https://wallstreetcn.com/articles/3774032",
-          "source": "华尔街见闻",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "ChatGPT即将迎来大改造：告别单一聊天 变身“超级应用”",
-          "url": "https://www.cls.cn/detail/2392807",
-          "source": "财联社热门",
-          "ranks": [
             7
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "ChatGPT转型",
-          "url": "https://s.weibo.com/weibo?q=%23ChatGPT%E8%BD%AC%E5%9E%8B%23&t=31&band_rank=10&Refer=top",
-          "source": "微博",
+          "title": "主持人插不进话，特朗普受访暴怒失控：当场“摔麦”走人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33331551",
+          "source": "澎湃新闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "以伊军事冲突升级，特朗普：双方“正寻求”立即停火",
+          "url": "https://wallstreetcn.com/articles/3774115",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "FTX联合创始人SBF正式申请特朗普特赦",
+          "url": "https://wallstreetcn.com/livenews/3116274",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "美以伊三方博弈100天：特朗普管不住局势了？",
+          "url": "https://flash.jin10.com/detail/20260608233538805800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "以伊战事缓和，美股高开，科技股反弹，英特尔大涨11%，美油跌破91美元",
+          "url": "https://wallstreetcn.com/articles/3774056",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "中东炮火暂歇 美股期指回血 苹果WWDC接棒登场 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2393996",
+          "source": "财联社热门",
           "ranks": [
             10
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "美股",
+          "url": "https://s.weibo.com/weibo?q=%E7%BE%8E%E8%82%A1&t=31&band_rank=17&Refer=top",
+          "source": "微博",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
+        {
+          "title": "据知情人士透露，SpaceX的纳斯达克IPO超额认购情况显著，计划周三美股收盘之后结束认购。（彭博）",
+          "url": "https://wallstreetcn.com/livenews/3116263",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
@@ -279,110 +257,65 @@
       "match_count": 3,
       "titles": [
         {
-          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
-          "url": "https://www.zhihu.com/question/2046542725336584487",
-          "source": "知乎",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "金价",
-          "url": "https://s.weibo.com/weibo?q=%E9%87%91%E4%BB%B7&t=31&band_rank=17&Refer=top",
-          "source": "微博",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "非农重燃加息押注，金价多头还有几张牌？｜黄金头条",
-          "url": "https://flash.jin10.com/detail/20260608114439145800",
-          "source": "金十数据",
-          "ranks": [
-            19
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "12时20分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "美股",
-      "match_count": 3,
-      "titles": [
-        {
-          "title": "短期美股科技股调整，风险如何应对？十大券商策略来了",
-          "url": "https://www.cls.cn/detail/2392910",
-          "source": "财联社热门",
-          "ranks": [
-            3
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        },
-        {
-          "title": "如何看待美股黑色星期五？如何影响A股？",
-          "url": "https://www.cls.cn/detail/2392886",
-          "source": "财联社热门",
+          "title": "金价下跌后郑州金店被挤爆",
+          "url": "https://www.toutiao.com/trending/7648415475306889252/",
+          "source": "今日头条",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "time_info": "[00时50分 ~ 00时51分]"
         },
         {
-          "title": "美股黑色星期五调整的本质是什么？如何影响A股？",
-          "url": "https://wallstreetcn.com/articles/3774038",
-          "source": "华尔街见闻",
+          "title": "金价跌回年初起点，抹去全年涨幅，若美联储加息金价会不会跌破 4000 美元？ 此前多家投行唱多，如何解读？",
+          "url": "https://www.zhihu.com/question/2046542725336584487",
+          "source": "知乎",
           "ranks": [
-            5
+            20
           ],
           "is_new": false,
           "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
+          "time_info": "[00时50分 ~ 00时51分]"
+        },
         {
-          "title": "中外六大AI出战上海高考作文！《科创板日报》实测DeepSeek与谷歌Gemini夺魁",
-          "url": "https://www.cls.cn/detail/2392919",
-          "source": "财联社热门",
+          "title": "花旗下调未来0-3个月黄金价格目标至4000美元，之前为4300美元。 虽然短期动能偏负面，但预计金价最终将随着霍尔木兹海峡紧张局势趋于缓和而反弹。 维持未来6-12个月金价目标在5000美元不变。",
+          "url": "https://wallstreetcn.com/livenews/3116245",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            9
+            30
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "SpaceX上市募资要建“太空数据中心”，却高价租算力给谷歌和Anthropic！网民热议：为何如此？",
-          "url": "https://wallstreetcn.com/articles/3774034",
-          "source": "华尔街见闻",
+          "title": "谷歌(GOOG.O)：即日起向拥有Google AI Ultra的用户及使用AI Ultra的Workspace商业版客户，在全球范围内推出网页版更新，并扩大适用范围。",
+          "url": "https://flash.jin10.com/detail/20260609001051651800",
+          "source": "金十数据",
           "ranks": [
-            10
+            6
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[12时19分 ~ 12时20分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
+        },
+        {
+          "title": "谷歌(GOOG.O)：将NotebookLM升级至运行在Gemini 3.5和Antigravity上。",
+          "url": "https://flash.jin10.com/detail/20260609000813081800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "00时51分"
         }
       ]
     }
