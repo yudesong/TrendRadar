@@ -1,12 +1,323 @@
 {
-  "generated_at": "2026-06-10T00:02:50.105488+08:00",
-  "total_titles_processed": 306,
+  "generated_at": "2026-06-10T12:02:48.865418+08:00",
+  "total_titles_processed": 557,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "伊朗",
+      "match_count": 17,
       "titles": [
+        {
+          "title": "伊朗称摧毁约旦美军基地F-35机库",
+          "url": "https://news.ifeng.com/c/8tq2f02mk4u",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.toutiao.com/trending/7649563798306557482/",
+          "source": "今日头条",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美军对伊朗发动打击",
+          "url": "https://search.bilibili.com/all?keyword=%E7%BE%8E%E5%86%9B%E5%AF%B9%E4%BC%8A%E6%9C%97%E5%8F%91%E5%8A%A8%E6%89%93%E5%87%BB",
+          "source": "bilibili 热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗袭击美军第五舰队",
+          "url": "https://www.douyin.com/hot/2529144",
+          "source": "抖音",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "中国代表强调安理会已终止审议伊朗核问题",
+          "url": "https://wallstreetcn.com/livenews/3117195",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗队全员佩戴「168」纪念徽章出征世界杯，这一举动有何深远意义？",
+          "url": "https://www.zhihu.com/question/2047657469275641746",
+          "source": "知乎",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美以袭击伊朗进入第 103 天，当前局势如何？有哪些值得关注的信息？",
+          "url": "https://www.zhihu.com/question/2047888566534067312",
+          "source": "知乎",
+          "ranks": [
+            13
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美军报复性打击伊朗回应直升机被击落，伊朗对美目标发动袭击，局势会进一步升级吗？对双方谈判有哪些影响？",
+          "url": "https://www.zhihu.com/question/2047951657120396654",
+          "source": "知乎",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
+          "url": "https://flash.jin10.com/detail/20260609233159062800",
+          "source": "金十数据",
+          "ranks": [
+            16
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时02分"
+        },
+        {
+          "title": "伊朗国足将在世界杯首战前一日飞抵美国",
+          "url": "https://wallstreetcn.com/livenews/3117188",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美国官员表示，美国打击了伊朗近20个目标。",
+          "url": "https://flash.jin10.com/detail/20260610111023945800",
+          "source": "金十数据",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗被曝向中东地区美军基地发射至少4枚导弹",
+          "url": "https://wallstreetcn.com/livenews/3117185",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            17
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美国官员表示，初步评估显示，几乎所有伊朗发射的导弹和无人机均已被拦截。目前未获悉有关美军人员受伤或已知美军设施受损的任何报告。",
+          "url": "https://flash.jin10.com/detail/20260610110924454800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗称对美军第五舰队发动袭击",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E7%A7%B0%E5%AF%B9%E7%BE%8E%E5%86%9B%E7%AC%AC%E4%BA%94%E8%88%B0%E9%98%9F%E5%8F%91%E5%8A%A8%E8%A2%AD%E5%87%BB",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗称摧毁约旦美军基地F－35战斗机机库",
+          "url": "https://wallstreetcn.com/livenews/3117168",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            28
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "据约旦国家电视台：约旦武装部队称，拦截并击落了五枚从伊朗发射、飞向阿兹拉克的导弹。拦截导弹后有残骸坠落，未报告人员伤亡或损失。",
+          "url": "https://flash.jin10.com/detail/20260610110354129800",
+          "source": "金十数据",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "伊朗无人机袭击科威特美军基地",
+          "url": "https://wallstreetcn.com/livenews/3117167",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "特朗普",
+      "match_count": 9,
+      "titles": [
+        {
+          "title": "特朗普证实美军打击伊朗",
+          "url": "https://news.ifeng.com/c/8tpnEaZn5yq",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "美伊和谈又受扰？美军再对伊朗发动打击 特朗普称“行动非常强硬”",
+          "url": "https://www.cls.cn/detail/2395455",
+          "source": "财联社热门",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "专家：达成协议是大势所趋，特朗普比伊朗更着急",
+          "url": "https://news.ifeng.com/c/8tq3SJCc0lq",
+          "source": "凤凰网",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
+          "url": "https://www.cls.cn/detail/2395258",
+          "source": "财联社热门",
+          "ranks": [
+            11,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 12时02分]"
+        },
+        {
+          "title": "特朗普：美伊谈判进入“最后关头”",
+          "url": "https://news.ifeng.com/c/8tooQUA09O3",
+          "source": "凤凰网",
+          "ranks": [
+            8,
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[00时02分 ~ 12时02分]"
+        },
+        {
+          "title": "美伊协议曙光风险并存：白宫放风核谈判取得积极成果，特朗普称必须回应伊朗击落美直升机，美军称发动打击报复",
+          "url": "https://wallstreetcn.com/articles/3774257",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "特朗普称对伊朗进行打击“非常重要” | 环球市场",
+          "url": "https://www.cls.cn/detail/2395421",
+          "source": "财联社热门",
+          "ranks": [
+            9
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "特朗普指示美军打击伊朗 伊外长发警告",
+          "url": "https://www.toutiao.com/trending/7649536140243897906/",
+          "source": "今日头条",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
+        {
+          "title": "特朗普训以总理对赖清德意味着什么",
+          "url": "https://www.toutiao.com/trending/7649427544734957595/",
+          "source": "今日头条",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 7,
+      "titles": [
+        {
+          "title": "美股收盘：芯片板块“惊魂一跳”后持续修复 纳指收盘跌约1%",
+          "url": "https://www.cls.cn/detail/2395384",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
+        },
         {
           "title": "芯片股力撑美股反弹，半导体指数涨超5%，英特尔大涨11%，中东局势缓和，原油冲高回落",
           "url": "https://wallstreetcn.com/articles/3774056",
@@ -76,30 +387,41 @@
       ]
     },
     {
-      "keyword_group": "特朗普",
-      "match_count": 2,
+      "keyword_group": "金价",
+      "match_count": 3,
       "titles": [
         {
-          "title": "特朗普：美伊谈判进入“最后关头”",
-          "url": "https://news.ifeng.com/c/8tooQUA09O3",
-          "source": "凤凰网",
+          "title": "国际油价金价大跌",
+          "url": "https://www.baidu.com/s?wd=%E5%9B%BD%E9%99%85%E6%B2%B9%E4%BB%B7%E9%87%91%E4%BB%B7%E5%A4%A7%E8%B7%8C",
+          "source": "百度热搜",
           "ranks": [
-            8
+            2
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "12时02分"
         },
         {
-          "title": "特朗普警告：若美伊和谈破裂 霍尔木兹海峡或数月无法恢复通航",
-          "url": "https://www.cls.cn/detail/2395258",
-          "source": "财联社热门",
+          "title": "金价连续大跌",
+          "url": "https://www.douyin.com/hot/2529220",
+          "source": "抖音",
           "ranks": [
-            11
+            15
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "00时02分"
+          "time_info": "12时02分"
+        },
+        {
+          "title": "金十图示：2026年06月10日（周三）上海金早盘价为912.95元/克，较国际金价(909.42元/克)，高3.53元/克",
+          "url": "https://flash.jin10.com/detail/20260610110836946800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "12时02分"
         }
       ]
     },
@@ -113,23 +435,6 @@
           "source": "华尔街见闻",
           "ranks": [
             8
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "00时02分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "伊朗最高领袖：我们从未寻求战争，也不寻求战争，但我们绝不会放弃我们的合法权利。",
-          "url": "https://flash.jin10.com/detail/20260609233159062800",
-          "source": "金十数据",
-          "ranks": [
-            16
           ],
           "is_new": false,
           "appearance_count": 1,
