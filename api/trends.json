@@ -1,12 +1,46 @@
 {
-  "generated_at": "2026-06-24T11:54:06.754580+08:00",
-  "total_titles_processed": 317,
+  "generated_at": "2026-06-24T23:35:20.901206+08:00",
+  "total_titles_processed": 575,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 16,
       "titles": [
+        {
+          "title": "特朗普取消今日的住房法案签署仪式和新闻发布会",
+          "url": "https://flash.jin10.com/detail/20260624231039889800",
+          "source": "金十数据",
+          "ranks": [
+            2
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "特朗普对石油公司开刀：下令调查哄抬行为，称油价已断崖式下跌",
+          "url": "https://news.ifeng.com/c/8uDgRGX21RF",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
+          "source": "澎湃新闻",
+          "ranks": [
+            19,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 23时35分]"
+        },
         {
           "title": "史上首次！美参众两院通过决议，共同限制特朗普战争权力",
           "url": "https://news.ifeng.com/c/8uClVTnMwCW",
@@ -52,17 +86,6 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
-          "title": "盘点｜“G7团结”演不下去了，特朗普如何惹恼多国领导人",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33439614",
-          "source": "澎湃新闻",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
-        },
-        {
           "title": "因凡蒂诺：特朗普将现场观战决赛",
           "url": "https://www.toutiao.com/trending/7654381608606187530/",
           "source": "今日头条",
@@ -74,13 +97,57 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
+          "title": "美国众议院议长约翰逊：今天已经与总统特朗普对话。 我们讨论了“拯救美国法案”。 我理解特朗普将在某个时间点签署住房草案为法律。",
+          "url": "https://wallstreetcn.com/livenews/3124117",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            12
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：预计美国总统特朗普将在10天内签署住房法案。",
+          "url": "https://flash.jin10.com/detail/20260624225108055800",
+          "source": "金十数据",
+          "ranks": [
+            14
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "美国众议院议长约翰逊：今天早些时候与美国总统特朗普谈论了《拯救美国法案》。",
+          "url": "https://flash.jin10.com/detail/20260624224747271800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "以色列总理内塔尼亚胡：我没有向特朗普请求攻击伊朗的许可，我只是向他通报了此事。",
+          "url": "https://flash.jin10.com/detail/20260624224205944800",
+          "source": "金十数据",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "软银CEO孙正义：希望美国总统特朗普能为中东带来和平。",
           "url": "https://flash.jin10.com/detail/20260624110419480800",
           "source": "金十数据",
           "ranks": [
             24
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -91,7 +158,7 @@
           "ranks": [
             26
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
         },
@@ -102,15 +169,120 @@
           "ranks": [
             27
           ],
-          "is_new": true,
+          "is_new": false,
           "appearance_count": 1,
           "time_info": "11时54分"
+        },
+        {
+          "title": "美国总统特朗普取消原定周三签署住房立法草案为法律的日程。",
+          "url": "https://wallstreetcn.com/livenews/3124102",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "伊朗",
+      "match_count": 8,
+      "titles": [
+        {
+          "title": "伊朗外交部：伊朗外长阿拉格齐于周三晚与沙特外长进行了电话会谈。在此次会谈中，阿拉格齐向沙特方简要介绍了谈判的最新进展、已达成共识的落实情况以及在此框架内进行的磋商。",
+          "url": "https://flash.jin10.com/detail/20260624231228263800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "伊朗外长与沙特外交大臣通电话。",
+          "url": "https://wallstreetcn.com/livenews/3124128",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "美媒担忧：白宫想用制裁逼伊朗让步，却把人民币“送”上桌",
+          "url": "https://news.ifeng.com/c/8uDfZ9C9pMR",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
+          "url": "https://www.zhihu.com/question/2052882056875603762",
+          "source": "知乎",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
+          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
+          "source": "凤凰网",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "数据显示 周一近20%通过霍尔木兹海峡的船只与伊朗制裁相关",
+          "url": "https://flash.jin10.com/detail/20260624230024795800",
+          "source": "金十数据",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "据纽约邮报：航运追踪数据显示，周一穿越霍尔木兹海峡的商船中，近五分之一是因参与运输伊朗石油而受到制裁的船只。",
+          "url": "https://flash.jin10.com/detail/20260624225443044800",
+          "source": "金十数据",
+          "ranks": [
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "伊朗：签谅解备忘录表明“美国战败”",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%EF%BC%9A%E7%AD%BE%E8%B0%85%E8%A7%A3%E5%A4%87%E5%BF%98%E5%BD%95%E8%A1%A8%E6%98%8E%E2%80%9C%E7%BE%8E%E5%9B%BD%E6%88%98%E8%B4%A5%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            29
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 6,
       "titles": [
         {
           "title": "【早报】美股半导体指数，暴跌超7%！芯片股全线重挫，闪迪、美光科技跌超13%；黄金、原油齐跌；C罗双响葡萄牙5球大胜、英格兰0-0战平加纳",
@@ -135,6 +307,28 @@
           "time_info": "[11时53分 ~ 11时54分]"
         },
         {
+          "title": "静待美光财报，美股半导体股普涨，黄金股普跌，现货黄金跌破4000美元，布油跌4%",
+          "url": "https://wallstreetcn.com/articles/3775351",
+          "source": "华尔街见闻",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
+          "title": "全球 AI 交易降温，美股半导体相关 ETF 暴跌，闪迪、美光科技跌超 10%，发生了什么？",
+          "url": "https://www.zhihu.com/question/2052869201178652833",
+          "source": "知乎",
+          "ranks": [
+            5
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
+        },
+        {
           "title": "6月24日投资避雷针：美股半导体指数暴跌超7% 闪迪、美光科技跌超13%",
           "url": "https://www.cls.cn/detail/2407435",
           "source": "财联社热门",
@@ -144,12 +338,23 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "美股期指小幅上涨 科技股反弹迎接美光财报“大考” | 今夜看点",
+          "url": "https://www.cls.cn/detail/2408279",
+          "source": "财联社热门",
+          "ranks": [
+            11
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
     {
       "keyword_group": "金价",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "专家：金价仍在下跌通道",
@@ -172,23 +377,35 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
+        },
+        {
+          "title": "现货黄金价格跌破4000美元大关",
+          "url": "https://www.douyin.com/hot/2546511",
+          "source": "抖音",
+          "ranks": [
+            16
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
     {
       "keyword_group": "美债",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
         {
           "title": "科技热潮降温 ，纳指跌超2%，芯片指数跌近8%，美债美元齐涨，金银下挫",
           "url": "https://wallstreetcn.com/articles/3775262",
           "source": "华尔街见闻",
           "ranks": [
-            1
+            1,
+            2
           ],
           "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "appearance_count": 3,
+          "time_info": "[11时53分 ~ 23时35分]"
         },
         {
           "title": "AI交易遭遇加息考验：除了美元、美债，一切都在跌",
@@ -200,34 +417,17 @@
           "is_new": false,
           "appearance_count": 2,
           "time_info": "[11时53分 ~ 11时54分]"
-        }
-      ]
-    },
-    {
-      "keyword_group": "伊朗",
-      "match_count": 2,
-      "titles": [
-        {
-          "title": "伊朗官宣霍尔木兹海峡免费开放 60 天，60 天后通行规则由美伊谈判决定，哪些信息值得关注？",
-          "url": "https://www.zhihu.com/question/2052882056875603762",
-          "source": "知乎",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
         },
         {
-          "title": "以色列前总理承认，曾密送星链试图颠覆伊朗政权",
-          "url": "https://news.ifeng.com/c/8uCdaH694Zv",
-          "source": "凤凰网",
+          "title": "瑞穗经济学家：若要有效利用外储，意味着日本要抛售美债",
+          "url": "https://wallstreetcn.com/livenews/3124111",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            8
+            18
           ],
-          "is_new": false,
-          "appearance_count": 2,
-          "time_info": "[11时53分 ~ 11时54分]"
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "23时35分"
         }
       ]
     },
