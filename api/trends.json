@@ -1,22 +1,57 @@
 {
-  "generated_at": "2026-07-05T11:43:36.853694+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-07-05T22:47:00.715792+08:00",
+  "total_titles_processed": 566,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 14,
+      "match_count": 19,
       "titles": [
         {
           "title": "普京与特朗普通话85分钟，细节公布",
           "url": "https://news.ifeng.com/c/8uVO6TXjAXb",
           "source": "凤凰网",
           "ranks": [
-            1
+            1,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 22时47分]"
+        },
+        {
+          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
+          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
+          "source": "凤凰网",
+          "ranks": [
+            3,
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 22时47分]"
+        },
+        {
+          "title": "特朗普对哈梅内伊葬礼感到震惊，认为伊朗民众恨他",
+          "url": "https://news.ifeng.com/c/8uVsCwKcWdW",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
+          "title": "特朗普又把自己加上了“总统山”",
+          "url": "https://news.ifeng.com/c/8uW6iftDRFS",
+          "source": "凤凰网",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "特朗普：我们很善良，给伊朗一周时间办丧事",
@@ -24,17 +59,6 @@
           "source": "凤凰网",
           "ranks": [
             2
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
-        },
-        {
-          "title": "特朗普称内塔尼亚胡知道“谁是老大”",
-          "url": "https://news.ifeng.com/c/8uVCbfraHd5",
-          "source": "凤凰网",
-          "ranks": [
-            3
           ],
           "is_new": false,
           "appearance_count": 1,
@@ -56,11 +80,35 @@
           "url": "https://wallstreetcn.com/articles/3776207",
           "source": "华尔街见闻",
           "ranks": [
-            9
+            9,
+            4
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 22时47分]"
+        },
+        {
+          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
+          "source": "澎湃新闻",
+          "ranks": [
+            16,
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 22时47分]"
+        },
+        {
+          "title": "特朗普将自己头像加在林肯旁边",
+          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E5%B0%86%E8%87%AA%E5%B7%B1%E5%A4%B4%E5%83%8F%E5%8A%A0%E5%9C%A8%E6%9E%97%E8%82%AF%E6%97%81%E8%BE%B9%23&t=31&band_rank=20&Refer=top",
+          "source": "微博",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         },
         {
           "title": "内塔尼亚胡近期将访美与特朗普会晤",
@@ -140,15 +188,26 @@
           "time_info": "11时43分"
         },
         {
-          "title": "一图看懂｜宣布关税后大量交易，特朗普账户如何“精准”炒股",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33518572",
-          "source": "澎湃新闻",
+          "title": "以色列总理内塔尼亚胡：美国总统特朗普并没有要求以色列停止对真主党隧道的行动。",
+          "url": "https://flash.jin10.com/detail/20260705192324103800",
+          "source": "金十数据",
           "ranks": [
-            16
+            24
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "11时43分"
+          "time_info": "22时47分"
+        },
+        {
+          "title": "俄总统助理：普京提请特朗普注意，欧洲和基辅押注于俄乌冲突延续甚至升级",
+          "url": "https://wallstreetcn.com/livenews/3128968",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            27
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "普京向特朗普介绍战场形势，特朗普称继续斡旋俄乌冲突",
@@ -165,8 +224,19 @@
     },
     {
       "keyword_group": "伊朗",
-      "match_count": 10,
+      "match_count": 15,
       "titles": [
+        {
+          "title": "据沙特媒体哈达斯：伊朗议会议长卡利巴夫表示，伊朗认为尽管存在困难，但与美国达成共识是可能的。",
+          "url": "https://flash.jin10.com/detail/20260705223200385800",
+          "source": "金十数据",
+          "ranks": [
+            1
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
         {
           "title": "伊朗驻华大使：中国等友好国家将享有“特殊待遇”",
           "url": "https://news.ifeng.com/c/8uUi1MnrVik",
@@ -190,6 +260,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "伊朗已故最高领袖哈梅内伊三子现身",
+          "url": "https://s.weibo.com/weibo?q=%23%E4%BC%8A%E6%9C%97%E5%B7%B2%E6%95%85%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E5%93%88%E6%A2%85%E5%86%85%E4%BC%8A%E4%B8%89%E5%AD%90%E7%8E%B0%E8%BA%AB%23&t=31&band_rank=25&Refer=top",
+          "source": "微博",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        },
+        {
           "title": "伊朗外交部：塞尔维亚代表团访问德黑兰，参加向伊朗前最高领袖哈梅内伊葬礼，并于周六下午会见了伊朗外交部长阿拉格齐。",
           "url": "https://flash.jin10.com/detail/20260705101107274800",
           "source": "金十数据",
@@ -210,6 +291,17 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://wallstreetcn.com/livenews/3129009",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            8
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         },
         {
           "title": "黎巴嫩官员同伊朗外长举行会晤 讨论地区局势",
@@ -267,6 +359,17 @@
           "time_info": "11时43分"
         },
         {
+          "title": "伊朗官员称该国已恢复与卡塔尔的海上贸易",
+          "url": "https://flash.jin10.com/detail/20260705195906511800",
+          "source": "金十数据",
+          "ranks": [
+            19
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
+        },
+        {
           "title": "上千万伊朗人参与哈梅内伊告别仪式",
           "url": "https://wallstreetcn.com/livenews/3128938",
           "source": "华尔街见闻-快讯",
@@ -276,13 +379,36 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "11时43分"
+        },
+        {
+          "title": "据半岛电视台：海事情报公司称伊朗革命卫队船只将六艘船只从阿曼航线转移。",
+          "url": "https://flash.jin10.com/detail/20260705191605772800",
+          "source": "金十数据",
+          "ranks": [
+            26
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "22时47分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 2,
+      "match_count": 3,
       "titles": [
+        {
+          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
+          "url": "https://wallstreetcn.com/articles/3776204",
+          "source": "华尔街见闻",
+          "ranks": [
+            7,
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[11时43分 ~ 22时47分]"
+        },
         {
           "title": "高盛：美股AI上涨力竭，下半年布局防御板块，看好医疗、欧洲防务",
           "url": "https://wallstreetcn.com/articles/3776200",
@@ -295,15 +421,32 @@
           "time_info": "11时43分"
         },
         {
-          "title": "精准预测“美股动量股”暴跌后，高盛看到“逢低买入”的迹象",
-          "url": "https://wallstreetcn.com/articles/3776204",
+          "title": "下周重磅日程：中国通胀数据、美联储会议纪要、SK海力士美股首秀、智谱MiniMax解禁",
+          "url": "https://wallstreetcn.com/articles/3776130",
           "source": "华尔街见闻",
           "ranks": [
             7
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时43分"
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "chatgpt openai",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "OpenAI塌房！Scaling law原作曝bug，万亿算力全白烧",
+          "url": "https://wallstreetcn.com/articles/3776218",
+          "source": "华尔街见闻",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[22时46分 ~ 22时47分]"
         }
       ]
     },
