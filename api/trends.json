@@ -1,415 +1,278 @@
 {
-  "generated_at": "2026-07-20T23:13:55.673320+08:00",
-  "total_titles_processed": 588,
+  "generated_at": "2026-07-21T10:55:11.540141+08:00",
+  "total_titles_processed": 314,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "伊朗",
-      "match_count": 21,
+      "match_count": 7,
       "titles": [
         {
-          "title": "哈梅内伊遇袭预案代号曝光，伊朗外长哽咽披露细节",
-          "url": "https://news.ifeng.com/c/8uuQFo0n9YS",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗导弹击中美军基地，火光四溅，有人大喊快撤",
-          "url": "https://news.ifeng.com/c/8utkEK9m79P",
+          "title": "伊朗公布打击多国美军基地战果",
+          "url": "https://news.ifeng.com/c/8uvTwaa2exp",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "以军总参谋长：已做好立即恢复对伊朗作战准备",
-          "url": "https://news.ifeng.com/c/8utlf4xmVvT",
+          "title": "约旦称拦截并击落3枚自伊朗发射的导弹",
+          "url": "https://news.ifeng.com/c/8uvTwaa2evE",
           "source": "凤凰网",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "伊朗外长：美国曾试图“收买”我们，我当场拒绝",
-          "url": "https://news.ifeng.com/c/8uuXB95ZA03",
-          "source": "凤凰网",
-          "ranks": [
-            3
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "伊朗前外长建议出动地面部队，夺取美军驻中东基地",
-          "url": "https://news.ifeng.com/c/8utWHdX6JW4",
-          "source": "凤凰网",
-          "ranks": [
-            4
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗发布公告：摧毁约旦20个美军藏身处，打死数十人",
-          "url": "https://news.ifeng.com/c/8uuPkftr2M2",
-          "source": "凤凰网",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗设拉子传出爆炸声",
-          "url": "https://wallstreetcn.com/livenews/3136972",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "据法尔斯通讯社：伊朗称美国空袭设拉子，未造成人员伤亡。",
-          "url": "https://flash.jin10.com/detail/20260720224852744800",
-          "source": "金十数据",
-          "ranks": [
-            13
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "伊朗称打死数十名美军人员",
-          "url": "https://www.toutiao.com/trending/7664426833449848347/",
-          "source": "今日头条",
-          "ranks": [
-            15
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗武装部队：将“毁灭性回击”美国野蛮行径",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33615489",
-          "source": "澎湃新闻",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗设拉子（Shiraz）传出爆炸声。（FARS）",
-          "url": "https://wallstreetcn.com/livenews/3136965",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            16
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "协议成废纸,伊朗掀桌硬刚美国",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356311&amp;topic_name=%E5%8D%8F%E8%AE%AE%E6%88%90%E5%BA%9F%E7%BA%B8%2C%E4%BC%8A%E6%9C%97%E6%8E%80%E6%A1%8C%E7%A1%AC%E5%88%9A%E7%BE%8E%E5%9B%BD",
-          "source": "贴吧",
-          "ranks": [
-            16
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美方称对伊朗军事行动将持续进行",
-          "url": "https://www.toutiao.com/trending/7663703753891233818/",
-          "source": "今日头条",
-          "ranks": [
-            18
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美国务卿：美国仍愿意通过外交途径解决伊朗问题",
-          "url": "https://wallstreetcn.com/livenews/3136502",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            19
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "消息人士：伊朗内政部长明日将在伊斯兰堡会见巴基斯坦陆军参谋长。",
-          "url": "https://flash.jin10.com/detail/20260720224208811800",
-          "source": "金十数据",
-          "ranks": [
-            20
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美军导弹打击伊朗石油重镇",
-          "url": "https://www.toutiao.com/trending/7664390484621528602/",
-          "source": "今日头条",
-          "ranks": [
-            21
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗称击落一架MQ-9无人机",
-          "url": "https://wallstreetcn.com/livenews/3136494",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美称仍对外交解决伊朗问题持开放态度",
-          "url": "https://wallstreetcn.com/livenews/3136954",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            24
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "伊朗称袭击约旦境内美军藏身地并打死数十名美军人员",
-          "url": "https://wallstreetcn.com/livenews/3136484",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            26
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "美国：结束周末对伊朗的一波空袭。",
-          "url": "https://wallstreetcn.com/livenews/3136480",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            29
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
-        },
-        {
-          "title": "伊朗称分三阶段打击美在巴林和科威特军事目标",
-          "url": "https://wallstreetcn.com/livenews/3136944",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            30
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "特朗普",
-      "match_count": 6,
-      "titles": [
-        {
-          "title": "特朗普：痛击伊朗，为身亡美军报仇",
-          "url": "https://news.ifeng.com/c/8uuJZX8B2mu",
+          "title": "“全面战争”！伊朗总统最新发声",
+          "url": "https://news.ifeng.com/c/8uvsqi231GR",
           "source": "凤凰网",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "如何看特朗普不愿离开颁奖台",
-          "url": "https://search.bilibili.com/all?keyword=%E5%A6%82%E4%BD%95%E7%9C%8B%E7%89%B9%E6%9C%97%E6%99%AE%E4%B8%8D%E6%84%BF%E7%A6%BB%E5%BC%80%E9%A2%81%E5%A5%96%E5%8F%B0",
-          "source": "bilibili 热搜",
+          "title": "原油短线下挫！报道称调停方提议美伊停火10天，伊朗称收到提议未透露细节",
+          "url": "https://wallstreetcn.com/articles/3777457",
+          "source": "华尔街见闻",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗海军同时从3个方向猛烈打击美军",
+          "url": "https://www.toutiao.com/trending/7663674772672512009/",
+          "source": "今日头条",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "伊朗打击美军在科威特基地的“海马斯”系统",
+          "url": "https://wallstreetcn.com/livenews/3137231",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             8
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "10时55分"
         },
         {
-          "title": "西班牙夺冠庆祝合影，特朗普迟迟不肯离场",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33618793",
-          "source": "澎湃新闻",
-          "ranks": [
-            11
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "英国新上任的首相伯纳姆已经与美国总统特朗普通话。（英国卫报）",
-          "url": "https://wallstreetcn.com/livenews/3136960",
+          "title": "伊朗革命卫队：两艘油轮在霍尔木兹海峡爆炸起火",
+          "url": "https://wallstreetcn.com/livenews/3137215",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            19
+            13
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "美国白宫官员：美国总统特朗普与新任英国首相伯纳姆进行了交谈。",
-          "url": "https://flash.jin10.com/detail/20260720223517066800",
-          "source": "金十数据",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "墨西哥总统辛鲍姆：在世界杯的间隙，与美国贸易代表格里尔、商务部长卢特尼克、国务卿卢比奥对话。 并与美国总统特朗普、加拿大总理卡尼短暂对话。 （将）在周三、或者周四接见格里尔。",
-          "url": "https://wallstreetcn.com/livenews/3136953",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "10时55分"
         }
       ]
     },
     {
       "keyword_group": "美股",
-      "match_count": 3,
+      "match_count": 4,
       "titles": [
         {
-          "title": "芯片股抛售暂歇，美股高开，存储芯片股普涨，SK海力士涨4%，油价转跌",
+          "title": "中东局势与财报季双重压力下，美股三连跌，芯片股抛售暂歇，中概收涨，油价过山车",
           "url": "https://wallstreetcn.com/articles/3777383",
           "source": "华尔街见闻",
           "ranks": [
-            2
+            1
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "【早报】美股光通信、存储板块全线走强，中概股多数上涨；油价上行、黄金微跌；三环集团、三花智控、东山精密等计划回购股份",
+          "url": "https://www.cls.cn/detail/2431956",
+          "source": "财联社热门",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "美股收盘：高开低走三大指数齐收跌 光通信、存储概念整体反弹",
+          "url": "https://www.cls.cn/detail/2431934",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
           "title": "美股芯片板块盘前反弹 中东局势扑朔迷离 | 今夜看点",
           "url": "https://www.cls.cn/detail/2431734",
           "source": "财联社热门",
           "ranks": [
-            7
-          ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
-        },
-        {
-          "title": "7月20日投资避雷针：上周五美股三大指数集体收跌 费城半导体指数进入技术性熊市",
-          "url": "https://www.cls.cn/detail/2430704",
-          "source": "财联社热门",
-          "ranks": [
-            13
+            8
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     },
     {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 2,
+      "keyword_group": "特朗普",
+      "match_count": 4,
       "titles": [
         {
-          "title": "如何看待最近网传的 DeepSeek v4 正式版灰测？",
-          "url": "https://www.zhihu.com/question/2059057378591613636",
-          "source": "知乎",
+          "title": "纽约市长威胁逮捕内塔尼亚胡，特朗普表态",
+          "url": "https://news.ifeng.com/c/8uvU7ssA8qW",
+          "source": "凤凰网",
           "ranks": [
-            8
+            6
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         },
         {
-          "title": "为什么豆包没有被 DeepSeek「斩杀」？",
-          "url": "https://www.zhihu.com/question/2061575313973416591",
+          "title": "美伊对峙愈演愈烈？美军伤亡与日俱增，特朗普扬言要伊朗付数倍代价！",
+          "url": "https://www.cls.cn/detail/2431976",
+          "source": "财联社热门",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "“特朗普毫无疑问是美国历史上最腐败的总统”",
+          "url": "https://news.ifeng.com/c/8uvIalkczmR",
+          "source": "凤凰网",
+          "ranks": [
+            11
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "特朗普喊话国际足联主席，「美国必须再次举办世界杯，且要在我任期间实现」，这可能性有多大？背后有何考量？",
+          "url": "https://www.zhihu.com/question/2062557149230903440",
           "source": "知乎",
           "ranks": [
-            17
+            16
           ],
-          "is_new": true,
-          "appearance_count": 1,
-          "time_info": "23时13分"
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     },
     {
       "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
         {
-          "title": "本周重磅日程：欧央行利率决议；谷歌、特斯拉、IBM、英特尔与宁德时代财报",
-          "url": "https://wallstreetcn.com/articles/3777171",
-          "source": "华尔街见闻",
+          "title": "谷歌被曝正打造新型AI服务器芯片 目标大幅提升Gemini运行效率",
+          "url": "https://www.cls.cn/detail/2431896",
+          "source": "财联社热门",
           "ranks": [
-            3
+            6
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时27分"
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "报道：谷歌正在开发新款芯片，Gemini架构直接写入硅片，效率最高提升10倍",
+          "url": "https://wallstreetcn.com/articles/3777467",
+          "source": "华尔街见闻",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
         }
       ]
     },
     {
-      "keyword_group": "美元",
+      "keyword_group": "chatgpt openai",
+      "match_count": 2,
+      "titles": [
+        {
+          "title": "OpenAI高管炮轰Kimi",
+          "url": "https://search.bilibili.com/all?keyword=OpenAI%E9%AB%98%E7%AE%A1%E7%82%AE%E8%BD%B0Kimi",
+          "source": "bilibili 热搜",
+          "ranks": [
+            4
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        },
+        {
+          "title": "OpenAI 负责人称 Kimi 开源是减速主义，他的说法有道理吗？开源对 AI 的发展能带来什么？",
+          "url": "https://www.zhihu.com/question/2062575282591209175",
+          "source": "知乎",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
       "match_count": 1,
       "titles": [
         {
-          "title": "美元指数DXY突破101，日内涨0.25%。",
-          "url": "https://flash.jin10.com/detail/20260720225453018800",
+          "title": "Kimi K3创造另一个“DeepSeek时刻”",
+          "url": "https://www.baidu.com/s?wd=Kimi+K3%E5%88%9B%E9%80%A0%E5%8F%A6%E4%B8%80%E4%B8%AA%E2%80%9CDeepSeek%E6%97%B6%E5%88%BB%E2%80%9D",
+          "source": "百度热搜",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[10时54分 ~ 10时55分]"
+        }
+      ]
+    },
+    {
+      "keyword_group": "金价",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "金十图示：2026年07月21日（周二）上海金早盘价为876.78元/克，较国际金价(875.51元/克)，高1.27元/克",
+          "url": "https://flash.jin10.com/detail/20260721101750427800",
           "source": "金十数据",
           "ranks": [
-            9
+            25
           ],
           "is_new": true,
           "appearance_count": 1,
-          "time_info": "23时13分"
+          "time_info": "10时55分"
         }
       ]
     }
