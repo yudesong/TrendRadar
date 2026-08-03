@@ -1,110 +1,127 @@
 {
-  "generated_at": "2026-08-03T11:18:45.773698+08:00",
-  "total_titles_processed": 315,
+  "generated_at": "2026-08-04T00:26:45.733052+08:00",
+  "total_titles_processed": 312,
   "failed_sources": [],
   "trends": [
     {
       "keyword_group": "特朗普",
-      "match_count": 9,
+      "match_count": 6,
       "titles": [
         {
-          "title": "TACO！特朗普“取消对伊朗打击”，伊朗否认曾要求停火，沙特王储曾致电美方“敦促缓和局势”",
-          "url": "https://wallstreetcn.com/articles/3778504",
-          "source": "华尔街见闻",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "【早报】特朗普称取消打击伊朗，原油大跌、黄金上涨；央行定调下半年货币政策",
-          "url": "https://www.cls.cn/detail/2443662",
-          "source": "财联社热门",
+          "title": "据路透：消息人士称，特朗普预计将于周五在美国国务院出席一次矿业高管圆桌会议。",
+          "url": "https://flash.jin10.com/detail/20260804001514489800",
+          "source": "金十数据",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "接连反转！特朗普透露三个信息",
-          "url": "https://news.ifeng.com/c/8vHV3ihqOZt",
-          "source": "凤凰网",
+          "title": "特朗普：与伊朗的谈判已开始，后续会谈也已提上日程",
+          "url": "https://wallstreetcn.com/livenews/3144262",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普称伊朗领导层口是心非",
+          "url": "https://wallstreetcn.com/livenews/3144260",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             4
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "特朗普称应伊方要求同意取消打击 伊朗反驳：并未要求停战！",
-          "url": "https://www.cls.cn/detail/2443463",
-          "source": "财联社热门",
+          "title": "再度反转！特朗普宣布不打了，重启谈判，伊朗：没有计划",
+          "url": "https://m.thepaper.cn/newsDetail_forward_33709958",
+          "source": "澎湃新闻",
           "ranks": [
-            5
+            9
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "特朗普：同意取消对伊朗的打击",
-          "url": "https://m.thepaper.cn/newsDetail_forward_33696747",
-          "source": "澎湃新闻",
+          "title": "特朗普：除非达成协议、或者伊朗彻底投降，否则任何东西都进不了伊朗",
+          "url": "https://wallstreetcn.com/livenews/3144250",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "特朗普家族关联的比特币矿企连续三个季度亏损",
+          "url": "https://wallstreetcn.com/livenews/3144228",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            30
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "DeepSeek 梁文锋",
+      "match_count": 4,
+      "titles": [
+        {
+          "title": "DeepSeek 斩杀线",
+          "url": "https://www.baidu.com/s?wd=DeepSeek+%E6%96%A9%E6%9D%80%E7%BA%BF",
+          "source": "百度热搜",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "DeepSeek一天消耗了8万亿",
+          "url": "https://s.weibo.com/weibo?q=DeepSeek%E4%B8%80%E5%A4%A9%E6%B6%88%E8%80%97%E4%BA%868%E4%B8%87%E4%BA%BF&t=31&band_rank=1&Refer=top",
+          "source": "微博",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "如何看待 7 月末至 8 月初有多家韩国公司发布 AI 称性能强于 DeepSeek？",
+          "url": "https://www.zhihu.com/question/2067512422555029717",
+          "source": "知乎",
           "ranks": [
             6
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "事关霍尔木兹！特朗普称今日举行谈判，伊朗重申“不会恢复至战前”！",
-          "url": "https://www.cls.cn/detail/2443690",
-          "source": "财联社热门",
+          "title": "DeepSeek斩杀线斩的是什么",
+          "url": "https://www.baidu.com/s?wd=DeepSeek%E6%96%A9%E6%9D%80%E7%BA%BF%E6%96%A9%E7%9A%84%E6%98%AF%E4%BB%80%E4%B9%88",
+          "source": "百度热搜",
           "ranks": [
-            11
+            26
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普再度TACO，宣布美伊谈判即将重启，现货黄金多头占比飙升至85%，后市情绪如何？欢迎前往“数据库-嘉盛市场晴雨表”查看并订阅（数据每10分钟更新1次）",
-          "url": "https://flash.jin10.com/detail/20260803104538415800",
-          "source": "金十数据",
-          "ranks": [
-            17
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普称原打算发动二战后最大打击",
-          "url": "https://s.weibo.com/weibo?q=%23%E7%89%B9%E6%9C%97%E6%99%AE%E7%A7%B0%E5%8E%9F%E6%89%93%E7%AE%97%E5%8F%91%E5%8A%A8%E4%BA%8C%E6%88%98%E5%90%8E%E6%9C%80%E5%A4%A7%E6%89%93%E5%87%BB%23&t=31&band_rank=22&Refer=top",
-          "source": "微博",
-          "ranks": [
-            22
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "特朗普拒绝为美伊达成协议设定最后期限",
-          "url": "https://wallstreetcn.com/livenews/3143835",
-          "source": "华尔街见闻-快讯",
-          "ranks": [
-            25
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         }
       ]
     },
@@ -113,65 +130,104 @@
       "match_count": 4,
       "titles": [
         {
-          "title": "伊朗看到了美国的3个软肋",
-          "url": "https://news.ifeng.com/c/8vHU3Votl6y",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
-        },
-        {
-          "title": "涉及霍尔木兹海峡，伊朗外交部再发声",
-          "url": "https://news.ifeng.com/c/8vGz11eyBPb",
+          "title": "没招了？美媒爆料：美军群发邮件征集对伊朗施压想法",
+          "url": "https://news.ifeng.com/c/8vIQYttFgB2",
           "source": "凤凰网",
           "ranks": [
             2
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "美计划本周末发动“猛烈轰炸” 伊朗：全面反击方案已就绪",
-          "url": "https://www.cls.cn/detail/2443408",
-          "source": "财联社热门",
+          "title": "伊朗革命卫队称具备全面情报掌控力",
+          "url": "https://wallstreetcn.com/livenews/3144255",
+          "source": "华尔街见闻-快讯",
           "ranks": [
-            10
+            8
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         },
         {
-          "title": "伊朗袭击乌军基地？实为纽约大火",
-          "url": "https://www.toutiao.com/trending/7669212085427339283/",
-          "source": "今日头条",
+          "title": "伊朗公布所袭船只画面指其错信美国",
+          "url": "https://wallstreetcn.com/livenews/3144239",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "伊朗外长与巴基斯坦副总理兼外长通电话，就地区局势交换意见",
+          "url": "https://wallstreetcn.com/livenews/3144233",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            26
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美股",
+      "match_count": 3,
+      "titles": [
+        {
+          "title": "美伊谈判乐观情绪升温，美股指高开，亚马逊涨近5%，市值突破3万亿美元，WTI油价跌7%",
+          "url": "https://wallstreetcn.com/articles/3778526",
+          "source": "华尔街见闻",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "中东紧张局势降温 美股期指上涨、油价重挫 存储股盘前下跌 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2444462",
+          "source": "财联社热门",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        },
+        {
+          "title": "美股三大指数集体高开",
+          "url": "https://www.douyin.com/hot/2596417",
+          "source": "抖音",
+          "ranks": [
+            14
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "00时26分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "谷歌 google gemini",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "谷歌(GOOG.O)：今天，我们宣布Google Cloud Cortex Framework第7版正式全面上市。",
+          "url": "https://flash.jin10.com/detail/20260804000502031800",
+          "source": "金十数据",
           "ranks": [
             11
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "DeepSeek 梁文锋",
-      "match_count": 1,
-      "titles": [
-        {
-          "title": "DeepSeek-V4系列迎重大升级 性能追平旗舰模型 Agent能力大幅增强",
-          "url": "https://www.cls.cn/detail/2443548",
-          "source": "财联社热门",
-          "ranks": [
-            6
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         }
       ]
     },
@@ -180,15 +236,15 @@
       "match_count": 1,
       "titles": [
         {
-          "title": "神了,OpenAI攻克十年数学难题",
-          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356711&amp;topic_name=%E7%A5%9E%E4%BA%86%2COpenAI%E6%94%BB%E5%85%8B%E5%8D%81%E5%B9%B4%E6%95%B0%E5%AD%A6%E9%9A%BE%E9%A2%98",
+          "title": "OpenAI降价,老日高喊中国万岁",
+          "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356750&amp;topic_name=OpenAI%E9%99%8D%E4%BB%B7%2C%E8%80%81%E6%97%A5%E9%AB%98%E5%96%8A%E4%B8%AD%E5%9B%BD%E4%B8%87%E5%B2%81",
           "source": "贴吧",
           "ranks": [
-            25
+            7
           ],
           "is_new": false,
           "appearance_count": 1,
-          "time_info": "11时18分"
+          "time_info": "00时26分"
         }
       ]
     }
