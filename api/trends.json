@@ -1,84 +1,238 @@
 {
-  "generated_at": "2026-08-08T09:49:36.916464+08:00",
-  "total_titles_processed": 313,
+  "generated_at": "2026-08-08T21:49:05.309471+08:00",
+  "total_titles_processed": 580,
   "failed_sources": [],
   "trends": [
     {
-      "keyword_group": "美股",
-      "match_count": 6,
+      "keyword_group": "伊朗",
+      "match_count": 18,
       "titles": [
         {
-          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
-          "url": "https://www.cls.cn/detail/2448991",
-          "source": "财联社热门",
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://news.ifeng.com/c/8vQYDcdSi9T",
+          "source": "凤凰网",
+          "ranks": [
+            1
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "伊媒发布伊朗最高领袖视频",
+          "url": "https://www.toutiao.com/trending/7671613890689502783/",
+          "source": "今日头条",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "伊朗战事打不下去了？美军参联会主席力主“翻篇”",
+          "url": "https://news.ifeng.com/c/8vQJU1FtdBd",
+          "source": "凤凰网",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "深度探访伊朗遇袭女子学校",
+          "url": "https://search.bilibili.com/all?keyword=%E6%B7%B1%E5%BA%A6%E6%8E%A2%E8%AE%BF%E4%BC%8A%E6%9C%97%E9%81%87%E8%A2%AD%E5%A5%B3%E5%AD%90%E5%AD%A6%E6%A0%A1",
+          "source": "bilibili 热搜",
           "ranks": [
             3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
-          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
-          "url": "https://www.cls.cn/detail/2448974",
-          "source": "财联社热门",
+          "title": "伊朗媒体发布“被击落美以战机残骸”画面",
+          "url": "https://news.ifeng.com/c/8vQNgP1KCAl",
+          "source": "凤凰网",
           "ranks": [
-            4
+            3
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
-          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
-          "url": "https://www.cls.cn/detail/2448784",
-          "source": "财联社热门",
+          "title": "伊总统：伊朗要学中国做好自己的事",
+          "url": "https://www.toutiao.com/trending/7670977056377618495/",
+          "source": "今日头条",
           "ranks": [
             5
           ],
           "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
-          "title": "美股创4月份以来最大单周涨幅",
-          "url": "https://www.toutiao.com/trending/7671430369190612521/",
-          "source": "今日头条",
+          "title": "伊朗最高领袖给总统下了“最后警告”？",
+          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
+          "source": "凤凰网",
           "ranks": [
-            24
+            1
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
         {
-          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040607361800",
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://www.baidu.com/s?wd=%E4%BC%8A%E6%9C%97%E5%AA%92%E4%BD%93%E5%8F%91%E5%B8%83%E4%BC%8A%E6%9C%97%E6%9C%80%E9%AB%98%E9%A2%86%E8%A2%96%E8%A7%86%E9%A2%91",
+          "source": "百度热搜",
+          "ranks": [
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "以媒称伊朗最高领袖被紧急送医，真实性如何？会怎样影响当前局势？",
+          "url": "https://www.zhihu.com/question/2069421184177763676",
+          "source": "知乎",
+          "ranks": [
+            8
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "如何评价沙特、巴基斯坦、土耳其三国签的防务协定，也门胡塞和伊朗的联动封锁能否持续，对油价有何影响？",
+          "url": "https://www.zhihu.com/question/2069252730074485781",
+          "source": "知乎",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "伊官员：有证据显示美军使用磷弹轰炸伊朗多地",
+          "url": "https://wallstreetcn.com/livenews/3147008",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            7
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "据沙特媒体哈达斯：伊朗总统表示，停止或继续战争的决定掌握在伊朗军事领导人手中。",
+          "url": "https://flash.jin10.com/detail/20260808204142320800",
           "source": "金十数据",
           "ranks": [
-            24
+            10
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊朗官员称防务协议无法保障沙特安全",
+          "url": "https://wallstreetcn.com/livenews/3146940",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            13
           ],
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
         },
         {
-          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
-          "url": "https://flash.jin10.com/detail/20260808040559195800",
-          "source": "金十数据",
+          "title": "伊朗接近与阿曼达成管理海峡协议",
+          "url": "https://wallstreetcn.com/livenews/3146999",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            15
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊朗外长：伊朗与阿曼就霍尔木兹海峡管理达成协议已非常接近",
+          "url": "https://wallstreetcn.com/livenews/3146996",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊朗媒体发布伊朗最高领袖视频",
+          "url": "https://wallstreetcn.com/livenews/3146994",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            20
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊朗革命卫队：重开海峡需美国接受伊朗条件",
+          "url": "https://wallstreetcn.com/livenews/3146991",
+          "source": "华尔街见闻-快讯",
+          "ranks": [
+            23
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "伊拉克石油部长：伊拉克正与伊朗谈判以允许伊拉克石油出口，但相关安排尚未生效。 新建巴士拉-菲什哈布尔输油管道预计耗资不超过150亿美元。 该管道将包括从哈迪塞到巴尼亚斯的支线，以及泵站和储存设施。",
+          "url": "https://wallstreetcn.com/livenews/3146989",
+          "source": "华尔街见闻-快讯",
           "ranks": [
             25
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
+          "time_info": "21时49分"
         }
       ]
     },
     {
       "keyword_group": "特朗普",
-      "match_count": 5,
+      "match_count": 11,
       "titles": [
+        {
+          "title": "特朗普宣布：将向关键矿产和电池项目投资30亿美元",
+          "url": "https://www.cls.cn/detail/2449039",
+          "source": "财联社热门",
+          "ranks": [
+            2
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "特朗普在会议上获赠一纯金礼品，当场要求传过来",
+          "url": "https://v.ifeng.com/c/8vONreNLVHw",
+          "source": "凤凰网",
+          "ranks": [
+            5
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
         {
           "title": "涉及白宫宴会厅项目，特朗普称将提起上诉",
           "url": "https://news.ifeng.com/c/8vPP6fsrHNx",
@@ -100,6 +254,50 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        },
+        {
+          "title": "消息人士：若民主党赢得众议院，他们计划对特朗普进行调查而非弹劾",
+          "url": "https://flash.jin10.com/detail/20260808205550359800",
+          "source": "金十数据",
+          "ranks": [
+            4
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
+        },
+        {
+          "title": "白宫宴会厅施工被叫停，特朗普怒了：国家耻辱！",
+          "url": "https://news.ifeng.com/c/8vQSbJyuyMk",
+          "source": "凤凰网",
+          "ranks": [
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "特朗普再出手！正式重启罢免美联储理事库克程序，美联储独立性再遭冲击",
+          "url": "https://wallstreetcn.com/articles/3778975",
+          "source": "华尔街见闻",
+          "ranks": [
+            9
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
+        {
+          "title": "舒默怒斥特朗普：你在哪个星球",
+          "url": "https://www.toutiao.com/trending/7671480510048452651/",
+          "source": "今日头条",
+          "ranks": [
+            17
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
         },
         {
           "title": "万斯为何能被特朗普青睐？背后有好几个大佬做靠山",
@@ -137,6 +335,80 @@
       ]
     },
     {
+      "keyword_group": "美股",
+      "match_count": 6,
+      "titles": [
+        {
+          "title": "【早报】美股创4月份以来最大单周涨幅；存储板块普跌；原油、黄金双双上涨；北京购房政策调整",
+          "url": "https://www.cls.cn/detail/2448991",
+          "source": "财联社热门",
+          "ranks": [
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 21时49分]"
+        },
+        {
+          "title": "美股收盘：标普500指数再创新高 疲软非农缓解加息担忧",
+          "url": "https://www.cls.cn/detail/2448974",
+          "source": "财联社热门",
+          "ranks": [
+            4,
+            6
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 21时49分]"
+        },
+        {
+          "title": "美国7月非农意外减少 美股期指走高 加息预期降温 | 今夜看点",
+          "url": "https://www.cls.cn/detail/2448784",
+          "source": "财联社热门",
+          "ranks": [
+            5,
+            7
+          ],
+          "is_new": false,
+          "appearance_count": 3,
+          "time_info": "[09时49分 ~ 21时49分]"
+        },
+        {
+          "title": "美股创4月份以来最大单周涨幅",
+          "url": "https://www.toutiao.com/trending/7671430369190612521/",
+          "source": "今日头条",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）美股热门股票行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040607361800",
+          "source": "金十数据",
+          "ranks": [
+            24
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        },
+        {
+          "title": "金十图示：2026年08月07日（周五）热门中概股行情一览（美股收盘）",
+          "url": "https://flash.jin10.com/detail/20260808040559195800",
+          "source": "金十数据",
+          "ranks": [
+            25
+          ],
+          "is_new": false,
+          "appearance_count": 1,
+          "time_info": "09时49分"
+        }
+      ]
+    },
+    {
       "keyword_group": "DeepSeek 梁文锋",
       "match_count": 2,
       "titles": [
@@ -165,37 +437,20 @@
       ]
     },
     {
-      "keyword_group": "伊朗",
+      "keyword_group": "谷歌 google gemini",
       "match_count": 2,
       "titles": [
         {
-          "title": "伊朗最高领袖给总统下了“最后警告”？",
-          "url": "https://news.ifeng.com/c/8vOzr19CfFi",
-          "source": "凤凰网",
-          "ranks": [
-            1
-          ],
-          "is_new": false,
-          "appearance_count": 1,
-          "time_info": "09时49分"
-        },
-        {
-          "title": "伊朗官员称防务协议无法保障沙特安全",
-          "url": "https://wallstreetcn.com/livenews/3146940",
+          "title": "伯克希尔哈撒韦：截至6月30日，股权投资总公允价值中有66%集中在美国运通、苹果、美国银行、阿尔phabet（谷歌母公司）和可口可乐这五家企业。 2025年全年末持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元、126.68亿美元、13.64亿美元。",
+          "url": "https://wallstreetcn.com/livenews/3147006",
           "source": "华尔街见闻-快讯",
           "ranks": [
-            13
+            9
           ],
-          "is_new": false,
+          "is_new": true,
           "appearance_count": 1,
-          "time_info": "09时49分"
-        }
-      ]
-    },
-    {
-      "keyword_group": "谷歌 google gemini",
-      "match_count": 1,
-      "titles": [
+          "time_info": "21时49分"
+        },
         {
           "title": "核心团队跑路,Gemini陷大危机",
           "url": "https://tieba.baidu.com/hottopic/browse/hottopic?topic_id=28356949&amp;topic_name=%E6%A0%B8%E5%BF%83%E5%9B%A2%E9%98%9F%E8%B7%91%E8%B7%AF%2CGemini%E9%99%B7%E5%A4%A7%E5%8D%B1%E6%9C%BA",
@@ -211,8 +466,19 @@
     },
     {
       "keyword_group": "chatgpt openai",
-      "match_count": 1,
+      "match_count": 2,
       "titles": [
+        {
+          "title": "英伟达盯上OpenAI“星际之门”背后的电力商，30亿美元直接入股",
+          "url": "https://wallstreetcn.com/articles/3778988",
+          "source": "华尔街见闻",
+          "ranks": [
+            10
+          ],
+          "is_new": false,
+          "appearance_count": 2,
+          "time_info": "[21时48分 ~ 21时49分]"
+        },
         {
           "title": "OpenAI首席执行官Altman称：正推进Astra全面开放使用。",
           "url": "https://wallstreetcn.com/livenews/3146942",
@@ -240,6 +506,23 @@
           "is_new": false,
           "appearance_count": 1,
           "time_info": "09时49分"
+        }
+      ]
+    },
+    {
+      "keyword_group": "美债",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "伯克希尔哈撒韦(BRK.A.N)截至6月30日持有的固定收益证券投资公允价值达170.34亿美元，其中，对美债、外国债券、企业债券的投资公允价值分别为30.02亿美元，126.68亿美元，13.64亿美元。",
+          "url": "https://flash.jin10.com/detail/20260808201231128800",
+          "source": "金十数据",
+          "ranks": [
+            18
+          ],
+          "is_new": true,
+          "appearance_count": 1,
+          "time_info": "21时49分"
         }
       ]
     }
